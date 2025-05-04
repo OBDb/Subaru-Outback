@@ -1,0 +1,22 @@
+command_id: 7B0.7B8.221029
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7B8056210290000
+  expected_values:
+    SUBARU_STEER_ANGLE: 0
+- response: 7B8056210290001
+  expected_values:
+    SUBARU_STEER_ANGLE: 1
+- response: 7B8056210290002
+  expected_values:
+    SUBARU_STEER_ANGLE: 2
+- response: 7B8056210290003
+  expected_values:
+    SUBARU_STEER_ANGLE: 3
+- response: 7B8056210290005
+  expected_values:
+    SUBARU_STEER_ANGLE: 5
+- response: 7B805621029FFFC
+  expected_values:
+    SUBARU_STEER_ANGLE: 0
