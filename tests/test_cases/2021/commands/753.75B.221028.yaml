@@ -1,0 +1,13 @@
+command_id: 753.75B.221028
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    75B101362102800E740
+    75B21BF00E741FF00E7
+    75B2240DD00E73FE200
+  expected_values:
+    SUBARU_TID1: 59200
+    SUBARU_TID2: 12517607
+    SUBARU_TID3: 4325120
+    SUBARU_TID4: 15155421
