@@ -11,64 +11,46 @@ test_cases:
 - response: 7B8056210290002
   expected_values:
     SUBARU_STEER_ANGLE: 2
-- response: 7B8056210290003
-  expected_values:
-    SUBARU_STEER_ANGLE: 3
 - response: 7B8056210290004
   expected_values:
     SUBARU_STEER_ANGLE: 4
 - response: 7B8056210290005
   expected_values:
     SUBARU_STEER_ANGLE: 5
-- response: 7B8056210290006
+- response: 7B805621029000B
   expected_values:
-    SUBARU_STEER_ANGLE: 6
-- response: 7B8056210290007
+    SUBARU_STEER_ANGLE: 11
+- response: 7B805621029001D
   expected_values:
-    SUBARU_STEER_ANGLE: 7
-- response: 7B8056210290008
-  expected_values:
-    SUBARU_STEER_ANGLE: 8
-- response: 7B8056210290019
-  expected_values:
-    SUBARU_STEER_ANGLE: 25
-- response: 7B805621029001A
-  expected_values:
-    SUBARU_STEER_ANGLE: 26
-- response: 7B8056210290028
-  expected_values:
-    SUBARU_STEER_ANGLE: 40
-- response: 7B80562102900E1
-  expected_values:
-    SUBARU_STEER_ANGLE: 225
-- response: 7B805621029FFB7
+    SUBARU_STEER_ANGLE: 29
+- response: 7B805621029FE74
   expected_values:
     SUBARU_STEER_ANGLE: 0
-- response: 7B805621029FFBF
+- response: 7B805621029FF3F
   expected_values:
     SUBARU_STEER_ANGLE: 0
-- response: 7B805621029FFC2
+- response: 7B805621029FF48
   expected_values:
     SUBARU_STEER_ANGLE: 0
-- response: 7B805621029FFEC
+- response: 7B805621029FFB4
   expected_values:
     SUBARU_STEER_ANGLE: 0
-- response: 7B805621029FFED
+- response: 7B805621029FFD0
+  expected_values:
+    SUBARU_STEER_ANGLE: 0
+- response: 7B805621029FFD9
+  expected_values:
+    SUBARU_STEER_ANGLE: 0
+- response: 7B805621029FFEB
+  expected_values:
+    SUBARU_STEER_ANGLE: 0
+- response: 7B805621029FFEE
   expected_values:
     SUBARU_STEER_ANGLE: 0
 - response: 7B805621029FFEF
   expected_values:
     SUBARU_STEER_ANGLE: 0
-- response: 7B805621029FFF1
-  expected_values:
-    SUBARU_STEER_ANGLE: 0
-- response: 7B805621029FFF2
-  expected_values:
-    SUBARU_STEER_ANGLE: 0
-- response: 7B805621029FFF5
-  expected_values:
-    SUBARU_STEER_ANGLE: 0
-- response: 7B805621029FFFC
+- response: 7B805621029FFF9
   expected_values:
     SUBARU_STEER_ANGLE: 0
 - response: 7B805621029FFFD

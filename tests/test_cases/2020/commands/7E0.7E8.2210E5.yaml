@@ -2,9 +2,156 @@ command_id: 7E0.7E8.2210E5
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 7E8056210E5878B
+  expected_values:
+    SUBARU_ODO: 69398
+- response: 7E8056210E5878C
+  expected_values:
+    SUBARU_ODO: 69400
+- response: 7E8056210E5878D
+  expected_values:
+    SUBARU_ODO: 69402
+- response: 7E8056210E5878E
+  expected_values:
+    SUBARU_ODO: 69404
+- response: 7E8056210E5878F
+  expected_values:
+    SUBARU_ODO: 69406
+- response: 7E8056210E58790
+  expected_values:
+    SUBARU_ODO: 69408
+- response: 7E8056210E58791
+  expected_values:
+    SUBARU_ODO: 69410
+- response: 7E8056210E58792
+  expected_values:
+    SUBARU_ODO: 69412
+- response: 7E8056210E58793
+  expected_values:
+    SUBARU_ODO: 69414
+- response: 7E8056210E58794
+  expected_values:
+    SUBARU_ODO: 69416
+- response: 7E8056210E58795
+  expected_values:
+    SUBARU_ODO: 69418
+- response: 7E8056210E58796
+  expected_values:
+    SUBARU_ODO: 69420
+- response: 7E8056210E58797
+  expected_values:
+    SUBARU_ODO: 69422
+- response: 7E8056210E58798
+  expected_values:
+    SUBARU_ODO: 69424
+- response: 7E8056210E58799
+  expected_values:
+    SUBARU_ODO: 69426
+- response: 7E8056210E5879A
+  expected_values:
+    SUBARU_ODO: 69428
+- response: 7E8056210E5879B
+  expected_values:
+    SUBARU_ODO: 69430
+- response: 7E8056210E5879C
+  expected_values:
+    SUBARU_ODO: 69432
+- response: 7E8056210E5879D
+  expected_values:
+    SUBARU_ODO: 69434
+- response: 7E8056210E5879E
+  expected_values:
+    SUBARU_ODO: 69436
+- response: 7E8056210E5879F
+  expected_values:
+    SUBARU_ODO: 69438
+- response: 7E8056210E587A0
+  expected_values:
+    SUBARU_ODO: 69440
+- response: 7E8056210E587A1
+  expected_values:
+    SUBARU_ODO: 69442
+- response: 7E8056210E587A2
+  expected_values:
+    SUBARU_ODO: 69444
+- response: 7E8056210E587A3
+  expected_values:
+    SUBARU_ODO: 69446
+- response: 7E8056210E587A4
+  expected_values:
+    SUBARU_ODO: 69448
+- response: 7E8056210E587A5
+  expected_values:
+    SUBARU_ODO: 69450
+- response: 7E8056210E587A6
+  expected_values:
+    SUBARU_ODO: 69452
+- response: 7E8056210E587A7
+  expected_values:
+    SUBARU_ODO: 69454
+- response: 7E8056210E587A8
+  expected_values:
+    SUBARU_ODO: 69456
+- response: 7E8056210E587A9
+  expected_values:
+    SUBARU_ODO: 69458
+- response: 7E8056210E587AA
+  expected_values:
+    SUBARU_ODO: 69460
+- response: 7E8056210E587AB
+  expected_values:
+    SUBARU_ODO: 69462
+- response: 7E8056210E587AC
+  expected_values:
+    SUBARU_ODO: 69464
+- response: 7E8056210E587AD
+  expected_values:
+    SUBARU_ODO: 69466
+- response: 7E8056210E587AE
+  expected_values:
+    SUBARU_ODO: 69468
+- response: 7E8056210E587AF
+  expected_values:
+    SUBARU_ODO: 69470
+- response: 7E8056210E587B0
+  expected_values:
+    SUBARU_ODO: 69472
+- response: 7E8056210E587B1
+  expected_values:
+    SUBARU_ODO: 69474
+- response: 7E8056210E587B2
+  expected_values:
+    SUBARU_ODO: 69476
+- response: 7E8056210E587B3
+  expected_values:
+    SUBARU_ODO: 69478
+- response: 7E8056210E587B4
+  expected_values:
+    SUBARU_ODO: 69480
+- response: 7E8056210E587B5
+  expected_values:
+    SUBARU_ODO: 69482
+- response: 7E8056210E587B6
+  expected_values:
+    SUBARU_ODO: 69484
+- response: 7E8056210E587B7
+  expected_values:
+    SUBARU_ODO: 69486
+- response: 7E8056210E587B8
+  expected_values:
+    SUBARU_ODO: 69488
+- response: 7E8056210E587B9
+  expected_values:
+    SUBARU_ODO: 69490
+- response: 7E8056210E587BA
+  expected_values:
+    SUBARU_ODO: 69492
 - response: 7E8056210E5EFA8
   expected_values:
     SUBARU_ODO: 122704
 - response: 7E8056210E5EFA9
   expected_values:
     SUBARU_ODO: 122706
+- response: 7E8056210E5F037
+  expected_values:
+    SUBARU_ODO: 122990

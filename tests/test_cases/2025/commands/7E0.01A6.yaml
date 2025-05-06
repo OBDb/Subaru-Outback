@@ -1,0 +1,106 @@
+command_id: 7E0.01A6
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80641A600006F83
+  expected_values:
+    ODO: 2854.7
+- response: 7E80641A600006F84
+  expected_values:
+    ODO: 2854.8
+- response: 7E80641A600006F86
+  expected_values:
+    ODO: 2855
+- response: 7E80641A600006F88
+  expected_values:
+    ODO: 2855.2
+- response: 7E80641A600006F8C
+  expected_values:
+    ODO: 2855.6
+- response: 7E80641A600006F90
+  expected_values:
+    ODO: 2856
+- response: 7E80641A600006F95
+  expected_values:
+    ODO: 2856.5
+- response: 7E80641A600006F9A
+  expected_values:
+    ODO: 2857
+- response: 7E80641A600006F9B
+  expected_values:
+    ODO: 2857.1
+- response: 7E80641A600006F9F
+  expected_values:
+    ODO: 2857.5
+- response: 7E80641A600006FA4
+  expected_values:
+    ODO: 2858
+- response: 7E80641A600006FA7
+  expected_values:
+    ODO: 2858.3
+- response: 7E80641A600006FA9
+  expected_values:
+    ODO: 2858.5
+- response: 7E80641A600006FAB
+  expected_values:
+    ODO: 2858.7
+- response: 7E80641A600006FAF
+  expected_values:
+    ODO: 2859.1
+- response: 7E80641A600006FB1
+  expected_values:
+    ODO: 2859.3
+- response: 7E80641A600006FB4
+  expected_values:
+    ODO: 2859.6
+- response: 7E80641A600006FB7
+  expected_values:
+    ODO: 2859.9
+- response: 7E80641A600006FB9
+  expected_values:
+    ODO: 2860.1
+- response: 7E80641A600006FBB
+  expected_values:
+    ODO: 2860.3
+- response: 7E80641A600006FBC
+  expected_values:
+    ODO: 2860.4
+- response: 7E80641A600006FBE
+  expected_values:
+    ODO: 2860.6
+- response: 7E80641A600006FC1
+  expected_values:
+    ODO: 2860.9
+- response: 7E80641A600006FC4
+  expected_values:
+    ODO: 2861.2
+- response: 7E80641A600006FC7
+  expected_values:
+    ODO: 2861.5
+- response: 7E80641A600006FC8
+  expected_values:
+    ODO: 2861.6
+- response: 7E80641A600006FCC
+  expected_values:
+    ODO: 2862
+- response: 7E80641A600006FD0
+  expected_values:
+    ODO: 2862.4
+- response: 7E80641A600006FD3
+  expected_values:
+    ODO: 2862.7
+- response: 7E80641A600006FD6
+  expected_values:
+    ODO: 2863
+- response: 7E80641A600006FD8
+  expected_values:
+    ODO: 2863.2
+- response: 7E80641A600006FDA
+  expected_values:
+    ODO: 2863.4
+- response: 7E80641A600006FDC
+  expected_values:
+    ODO: 2863.6
+- response: 7E80641A600006FDE
+  expected_values:
+    ODO: 2863.8
