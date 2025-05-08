@@ -1,0 +1,16 @@
+model_year: 2006
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+unsupported_commands_by_ecu:
+  753:
+  - 753.75B.221022
+  - 753.75B.221028
+  7B0:
+  - 7B0.7B8.221024
+  - 7B0.7B8.221025
+  - 7B0.7B8.221026
+  - 7B0.7B8.221027
+  - 7B0.7B8.221029
+  7E0:
+  - 7E0.7E8.22002F
+  - 7E0.7E8.2210E5
