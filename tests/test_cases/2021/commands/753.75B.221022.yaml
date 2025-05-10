@@ -2,18 +2,12 @@ command_id: 753.75B.221022
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 75B07621022ADB0ACB0
+- response: 75B07621022A8AAA7AA
   expected_values:
-    SUBARU_TP_FL: 35.2
-    SUBARU_TP_FR: 34.4
-    SUBARU_TP_RL: 34.6
-    SUBARU_TP_RR: 35.2
-- response: 75B07621022AFB1ABB2
-  expected_values:
-    SUBARU_TP_FL: 35.6
-    SUBARU_TP_FR: 34.2
-    SUBARU_TP_RL: 35
-    SUBARU_TP_RR: 35.4
+    SUBARU_TP_FL: 34
+    SUBARU_TP_FR: 33.4
+    SUBARU_TP_RL: 33.6
+    SUBARU_TP_RR: 34
 - response: 75B07621022B5B9B1B7
   expected_values:
     SUBARU_TP_FL: 36.6
