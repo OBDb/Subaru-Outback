@@ -2,6 +2,9 @@ command_id: 7E0.7E8.2210E5
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 7E8056210E5D607
+  expected_values:
+    SUBARU_ODO: 109582
 - response: 7E8056210E5ED9F
   expected_values:
     SUBARU_ODO: 121662
