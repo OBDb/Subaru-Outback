@@ -5,9 +5,12 @@ test_cases:
 - response: 7E80641A600006F83
   expected_values:
     ODO: 2854.7
-- response: 7E80641A600006FDE
+- response: 7E80641A600007400
   expected_values:
-    ODO: 2863.8
-- response: 7E80641A60000701F
+    ODO: 2969.6
+- response: 7E80641A6000076FF
   expected_values:
-    ODO: 2870.3
+    ODO: 3046.3
+- response: 7E80641A600007705
+  expected_values:
+    ODO: 3046.9

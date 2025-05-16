@@ -65,3 +65,5 @@ unsupported_commands_by_ecu:
   7E0:
   - 7E0.7E8.22002F:SUBARU_FLI
   - 7E0.7E8.2210E5:SUBARU_ODO
+  7E1:
+  - 7E1.7E9.010D
