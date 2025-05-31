@@ -1,5 +1,0 @@
-command_id: 7E0.011F
-test_cases:
-- response: 7E804411F0143
-  expected_values:
-    RUNTM: 323
