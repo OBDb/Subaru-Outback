@@ -1,0 +1,10 @@
+command_id: 7E0.0124
+test_cases:
+- expected_values:
+    LAMBDA11_WIDE: 0.97702
+    O2S11_WIDE: 2.48341
+  response: 7E80641247D0F4F82
+- expected_values:
+    LAMBDA11_WIDE: 1.00116
+    O2S11_WIDE: 2.49939
+  response: '7E806412480265005'
