@@ -68,6 +68,7 @@ supported_commands_by_ecu:
   - 7E0.012C:EGR_PCT
   - 7E0.012D:EGR_ERR
   - 7E0.012E:EVAP_PCT
+  - 7E0.012F:FLI
   - 7E0.0130:WARM_UPS
   - 7E0.0131:CLR_DIST
   - 7E0.0133:BARO
