@@ -104,4 +104,4 @@ unsupported_commands_by_ecu:
   - 7A2.22116A|t=64,fc=1:SUBARU_DPF_WARN_DIST
   - 7A2.2212ED|t=64,fc=1:SUBARU_MAF_AVG
   "7E0":
-  - 7E0.7E8.22002F|t=64,fc=1:SUBARU_FLI
+  - 7E0.7E8.22002F|t=64,fc=1:SUBARU_FLI_V3
