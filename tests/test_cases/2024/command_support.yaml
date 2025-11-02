@@ -132,6 +132,8 @@ supported_commands_by_ecu:
   - 7E1.7E9.0105
   - 7E1.7E9.010D
 unsupported_commands_by_ecu:
+  "750":
+  - '750.2116'
   "7A2":
   - 7A2.220005|t=64,fc=1:SUBARU_ECT
   - 7A2.22002F|t=64,fc=1:SUBARU_FLI_V2
