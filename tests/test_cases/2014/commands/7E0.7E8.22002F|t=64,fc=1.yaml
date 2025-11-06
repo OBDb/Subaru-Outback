@@ -4,5 +4,5 @@ test_cases:
     SUBARU_FLI_V3: 16.86275
   response: 7E80462002F2B
 - expected_values:
-    SUBARU_FLI_V3: 44.31373
-  response: 7E80462002F71
+    SUBARU_FLI_V3: 97.2549
+  response: 7E80462002FF8
