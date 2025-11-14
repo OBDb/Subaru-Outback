@@ -1,0 +1,5 @@
+command_id: 7A2.2210A6|t=64,fc=1
+test_cases:
+- expected_values:
+    SUBARU_ACC_POS: 0
+  response: 7E8046210A600
