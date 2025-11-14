@@ -61,6 +61,7 @@ supported_commands_by_ecu:
   - 7E0.010D:VSS
   - 7E0.011C:OBDSUP
   - 7E0.011F:RUNTM
+  - 7E0.012F:FLI
   - 7E0.0131:CLR_DIST
   - 7E0.0146:AAT
   - 7E0.0149:APP_D
