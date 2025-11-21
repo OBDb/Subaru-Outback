@@ -1,4 +1,4 @@
-command_id: 7A2.2210E7|t=64,fc=1
+command_id: 7A2.7AA.2210E7
 test_cases:
 - expected_values:
     SUBARU_EOT: -40
