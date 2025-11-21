@@ -1,5 +1,6 @@
-command_id: 7A2.221135|t=64,fc=1
+command_id: 7A2.7AA.221135
 test_cases:
 - expected_values:
     SUBARU_12V_C: 125
+    SUBARU_BAT_CURRENT: 253
   response: 7AA04621135FD

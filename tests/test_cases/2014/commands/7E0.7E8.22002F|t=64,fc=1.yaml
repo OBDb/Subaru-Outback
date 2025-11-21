@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22002F|t=64,fc=1
 test_cases:
 - expected_values:
-    SUBARU_FLI_V3: 16.86275
+    SUBARU_FLI_V2: 16.86275
   response: 7E80462002F2B
 - expected_values:
-    SUBARU_FLI_V3: 97.2549
+    SUBARU_FLI_V2: 97.2549
   response: 7E80462002FF8
