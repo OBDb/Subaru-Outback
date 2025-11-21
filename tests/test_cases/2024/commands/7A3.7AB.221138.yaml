@@ -1,0 +1,11 @@
+command_id: 7A3.7AB.221138
+test_cases:
+- expected_values:
+    SUBARU_SECONDARY_PULLEY_SPEED: 0
+  response: 7AB056211380000
+- expected_values:
+    SUBARU_SECONDARY_PULLEY_SPEED: 2574
+  response: 7AB056211380A0E
+- expected_values:
+    SUBARU_SECONDARY_PULLEY_SPEED: 2812
+  response: 7AB056211380AFC
