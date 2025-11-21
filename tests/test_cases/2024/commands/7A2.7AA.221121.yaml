@@ -1,0 +1,17 @@
+command_id: 7A2.7AA.221121
+test_cases:
+- expected_values:
+    SUBARU_TARGET_ENGINE_SPEED: 750
+  response: 7AA056211210BB8
+- expected_values:
+    SUBARU_TARGET_ENGINE_SPEED: 768
+  response: 7AA056211210C00
+- expected_values:
+    SUBARU_TARGET_ENGINE_SPEED: 780
+  response: 7AA056211210C30
+- expected_values:
+    SUBARU_TARGET_ENGINE_SPEED: 800
+  response: 7AA056211210C80
+- expected_values:
+    SUBARU_TARGET_ENGINE_SPEED: 850
+  response: 7AA056211210D48
