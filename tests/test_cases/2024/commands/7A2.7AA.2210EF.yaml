@@ -4,26 +4,5 @@ test_cases:
     SUBARU_EXHAUST_OCV_DUTY_LEFT: 44.31373
   response: 7AA046210EF71
 - expected_values:
-    SUBARU_EXHAUST_OCV_DUTY_LEFT: 45.4902
-  response: 7AA046210EF74
-- expected_values:
-    SUBARU_EXHAUST_OCV_DUTY_LEFT: 47.05882
-  response: 7AA046210EF78
-- expected_values:
-    SUBARU_EXHAUST_OCV_DUTY_LEFT: 51.37255
-  response: 7AA046210EF83
-- expected_values:
-    SUBARU_EXHAUST_OCV_DUTY_LEFT: 54.5098
-  response: 7AA046210EF8B
-- expected_values:
-    SUBARU_EXHAUST_OCV_DUTY_LEFT: 55.68627
-  response: 7AA046210EF8E
-- expected_values:
-    SUBARU_EXHAUST_OCV_DUTY_LEFT: 56.86275
-  response: 7AA046210EF91
-- expected_values:
-    SUBARU_EXHAUST_OCV_DUTY_LEFT: 57.2549
-  response: 7AA046210EF92
-- expected_values:
-    SUBARU_EXHAUST_OCV_DUTY_LEFT: 57.64706
-  response: 7AA046210EF93
+    SUBARU_EXHAUST_OCV_DUTY_LEFT: 61.17647
+  response: 7AA046210EF9C
