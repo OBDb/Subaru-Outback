@@ -1,23 +1,8 @@
 command_id: 7A2.7AA.2210B7
 test_cases:
 - expected_values:
-    SUBARU_OCV_DUTY_LEFT: 56.07843
-  response: 7AA046210B78F
+    SUBARU_OCV_DUTY_LEFT: 14.11765
+  response: 7AA046210B724
 - expected_values:
-    SUBARU_OCV_DUTY_LEFT: 56.47059
-  response: 7AA046210B790
-- expected_values:
-    SUBARU_OCV_DUTY_LEFT: 56.86275
-  response: 7AA046210B791
-- expected_values:
-    SUBARU_OCV_DUTY_LEFT: 57.2549
-  response: 7AA046210B792
-- expected_values:
-    SUBARU_OCV_DUTY_LEFT: 58.03922
-  response: 7AA046210B794
-- expected_values:
-    SUBARU_OCV_DUTY_LEFT: 58.43137
-  response: 7AA046210B795
-- expected_values:
-    SUBARU_OCV_DUTY_LEFT: 60
-  response: 7AA046210B799
+    SUBARU_OCV_DUTY_LEFT: 60.39216
+  response: 7AA046210B79A
