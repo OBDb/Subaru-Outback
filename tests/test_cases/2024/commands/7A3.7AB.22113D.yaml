@@ -2,13 +2,13 @@ command_id: 7A3.7AB.22113D
 test_cases:
 - expected_values:
     SUBARU_TARGET_GEAR_RATIO: 0
-  response: 7AB0562113D0071
+  response: 7AB0562113D005E
+- expected_values:
+    SUBARU_TARGET_GEAR_RATIO: 0
+  response: 7AB0562113D00F9
 - expected_values:
     SUBARU_TARGET_GEAR_RATIO: 0.00391
-  response: 7AB0562113D010E
-- expected_values:
-    SUBARU_TARGET_GEAR_RATIO: 0.00391
-  response: 7AB0562113D01E8
+  response: 7AB0562113D0105
 - expected_values:
     SUBARU_TARGET_GEAR_RATIO: 0.00781
-  response: 7AB0562113D02A8
+  response: 7AB0562113D0216

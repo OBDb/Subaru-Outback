@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     SUBARU_ESTIMATED_BAT_T: 18
   response: 7AA056213230074
+- expected_values:
+    SUBARU_ESTIMATED_BAT_T: 18.5
+  response: 7AA056213230075
+- expected_values:
+    SUBARU_ESTIMATED_BAT_T: 19
+  response: 7AA056213230076
+- expected_values:
+    SUBARU_ESTIMATED_BAT_T: 19.5
+  response: 7AA056213230077
