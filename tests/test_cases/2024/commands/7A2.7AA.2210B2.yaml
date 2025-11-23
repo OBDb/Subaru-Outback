@@ -1,6 +1,9 @@
 command_id: 7A2.7AA.2210B2
 test_cases:
 - expected_values:
+    SUBARU_ALTERNATOR_DUTY: 35
+  response: 7AA046210B223
+- expected_values:
     SUBARU_ALTERNATOR_DUTY: 69
   response: 7AA046210B245
 - expected_values:
