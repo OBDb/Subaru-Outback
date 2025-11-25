@@ -5,7 +5,7 @@ test_cases:
   response: 7AB0562113D005E
 - expected_values:
     SUBARU_TARGET_GEAR_RATIO: 0
-  response: 7AB0562113D00F9
+  response: 7AB0562113D00FC
 - expected_values:
     SUBARU_TARGET_GEAR_RATIO: 0.00391
   response: 7AB0562113D0105
