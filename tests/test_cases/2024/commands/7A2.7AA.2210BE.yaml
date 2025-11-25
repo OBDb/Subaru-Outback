@@ -1,8 +1,8 @@
 command_id: 7A2.7AA.2210BE
 test_cases:
 - expected_values:
-    SUBARU_A_F_SENSOR_1: 0.77259
-  response: 7AA046210BE63
+    SUBARU_A_F_SENSOR_1: 0.74137
+  response: 7AA046210BE5F
 - expected_values:
     SUBARU_A_F_SENSOR_1: 1.52957
   response: 7AA046210BEC4
