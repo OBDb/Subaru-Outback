@@ -1,0 +1,11 @@
+command_id: 7A2.7AA.2210D4
+test_cases:
+- expected_values:
+    SUBARU_EWG_VALVE_ACTUAL_POSITION: 0.48783
+  response: 7AA056210D4431F
+- expected_values:
+    SUBARU_EWG_VALVE_ACTUAL_POSITION: 10.30854
+  response: 7AA056210D481F9
+- expected_values:
+    SUBARU_EWG_VALVE_ACTUAL_POSITION: 15.00832
+  response: 7AA056210D4A00D

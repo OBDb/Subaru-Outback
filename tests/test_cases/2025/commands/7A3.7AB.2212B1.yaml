@@ -1,0 +1,11 @@
+command_id: 7A3.7AB.2212B1
+test_cases:
+- expected_values:
+    SUBARU_ACTUAL_LINE_PRESSURE: 0.66798
+  response: 7AB056212B106AE
+- expected_values:
+    SUBARU_ACTUAL_LINE_PRESSURE: 1.09845
+  response: 7AB056212B10AFC
+- expected_values:
+    SUBARU_ACTUAL_LINE_PRESSURE: 1.50119
+  response: 7AB056212B10F03

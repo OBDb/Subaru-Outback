@@ -1,0 +1,8 @@
+command_id: 7A2.7AA.221323
+test_cases:
+- expected_values:
+    SUBARU_ESTIMATED_BAT_T: 8.5
+  response: 7AA056213230061
+- expected_values:
+    SUBARU_ESTIMATED_BAT_T: 9
+  response: 7AA056213230062

@@ -1,0 +1,8 @@
+command_id: 7A2.7AA.2210D2
+test_cases:
+- expected_values:
+    SUBARU_EWG_VALVE_POSITION_SENSOR_LEARNING_CLOSED: 0.30118
+  response: 7AA046210D242
+- expected_values:
+    SUBARU_EWG_VALVE_POSITION_SENSOR_LEARNING_CLOSED: 0.45725
+  response: 7AA046210D243
