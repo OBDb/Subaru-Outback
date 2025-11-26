@@ -1,0 +1,11 @@
+command_id: 7A3.7AB.2212B2
+test_cases:
+- expected_values:
+    SUBARU_LIN_SOLENOID_ACTUAL_CURRENT: 739
+  response: 7AB056212B202E3
+- expected_values:
+    SUBARU_LIN_SOLENOID_ACTUAL_CURRENT: 767
+  response: 7AB056212B202FF
+- expected_values:
+    SUBARU_LIN_SOLENOID_ACTUAL_CURRENT: 772
+  response: 7AB056212B20304
