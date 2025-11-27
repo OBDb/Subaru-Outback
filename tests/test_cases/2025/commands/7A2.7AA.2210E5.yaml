@@ -12,3 +12,12 @@ test_cases:
 - expected_values:
     SUBARU_ODO_7A2_10E5: 16554
   response: 7AA056210E52055
+- expected_values:
+    SUBARU_ODO_7A2_10E5: 16556
+  response: 7AA056210E52056
+- expected_values:
+    SUBARU_ODO_7A2_10E5: 16558
+  response: 7AA056210E52057
+- expected_values:
+    SUBARU_ODO_7A2_10E5: 16598
+  response: 7AA056210E5206B
