@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     SUBARU_FUEL_PUMP_DUTY: 75.29412
   response: 7AA046210B3C0
+- expected_values:
+    SUBARU_FUEL_PUMP_DUTY: 78.82353
+  response: 7AA046210B3C9

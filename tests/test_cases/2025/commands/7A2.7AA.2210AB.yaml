@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     SUBARU_RADIATOR_FAN: 14
   response: 7AA046210AB0E
+- expected_values:
+    SUBARU_RADIATOR_FAN: 30
+  response: 7AA046210AB1E
+- expected_values:
+    SUBARU_RADIATOR_FAN: 48
+  response: 7AA046210AB30
