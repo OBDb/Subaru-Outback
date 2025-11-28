@@ -13,6 +13,9 @@ test_cases:
     SUBARU_TARGET_ENGINE_SPEED: 800
   response: 7AA056211210C80
 - expected_values:
+    SUBARU_TARGET_ENGINE_SPEED: 801.75
+  response: 7AA056211210C87
+- expected_values:
     SUBARU_TARGET_ENGINE_SPEED: 811.75
   response: 7AA056211210CAF
 - expected_values:
