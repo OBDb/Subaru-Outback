@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220005
+test_cases:
+- expected_values:
+    SUBARU_COOLANT_T: 4
+  response: 7E8046200052C
+- expected_values:
+    SUBARU_COOLANT_T: 13
+  response: '7E80462000535'
+- expected_values:
+    SUBARU_COOLANT_T: 39
+  response: 7E8046200054F
+- expected_values:
+    SUBARU_COOLANT_T: 49
+  response: '7E80462000559'
+- expected_values:
+    SUBARU_COOLANT_T: 53
+  response: 7E8046200055D
+- expected_values:
+    SUBARU_COOLANT_T: 54
+  response: 7E8046200055E
+- expected_values:
+    SUBARU_COOLANT_T: 55
+  response: 7E8046200055F
+- expected_values:
+    SUBARU_COOLANT_T: 61
+  response: '7E80462000565'
+- expected_values:
+    SUBARU_COOLANT_T: 62
+  response: '7E80462000566'
+- expected_values:
+    SUBARU_COOLANT_T: 78
+  response: '7E80462000576'
