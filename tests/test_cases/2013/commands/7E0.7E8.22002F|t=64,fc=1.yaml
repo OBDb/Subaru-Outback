@@ -1,26 +1,8 @@
 command_id: 7E0.7E8.22002F|t=64,fc=1
 test_cases:
 - expected_values:
-    SUBARU_FLI_V2: 38.82353
-  response: 7E80462002F63
-- expected_values:
-    SUBARU_FLI_V2: 39.60784
-  response: 7E80462002F65
-- expected_values:
-    SUBARU_FLI_V2: 41.17647
-  response: 7E80462002F69
-- expected_values:
-    SUBARU_FLI_V2: 41.56863
-  response: 7E80462002F6A
-- expected_values:
-    SUBARU_FLI_V2: 44.31373
-  response: 7E80462002F71
-- expected_values:
-    SUBARU_FLI_V2: 47.05882
-  response: 7E80462002F78
-- expected_values:
-    SUBARU_FLI_V2: 47.45098
-  response: 7E80462002F79
+    SUBARU_FLI_V2: 36.07843
+  response: 7E80462002F5C
 - expected_values:
     SUBARU_FLI_V2: 48.23529
   response: 7E80462002F7B
