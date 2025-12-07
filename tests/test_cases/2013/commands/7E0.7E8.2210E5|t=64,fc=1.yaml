@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     SUBARU_ODO: 127832
   response: 7E8056210E5F9AC
+- expected_values:
+    SUBARU_ODO: 127916
+  response: 7E8056210E5F9D6
