@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2210E5|t=64,fc=1
+test_cases:
+- expected_values:
+    SUBARU_ODO: 127464
+  response: 7E8056210E5F8F4
+- expected_values:
+    SUBARU_ODO: 127480
+  response: 7E8056210E5F8FC
+- expected_values:
+    SUBARU_ODO: 127482
+  response: 7E8056210E5F8FD
+- expected_values:
+    SUBARU_ODO: 127484
+  response: 7E8056210E5F8FE
+- expected_values:
+    SUBARU_ODO: 127486
+  response: 7E8056210E5F8FF
+- expected_values:
+    SUBARU_ODO: 127518
+  response: 7E8056210E5F90F
