@@ -4,8 +4,8 @@ test_cases:
     SUBARU_MONITOR_2: 675.5
   response: 7AA056213150A8E
 - expected_values:
-    SUBARU_MONITOR_2: 700.5
-  response: 7AA056213150AF2
+    SUBARU_MONITOR_2: 702.75
+  response: 7AA056213150AFB
 - expected_values:
     SUBARU_MONITOR_2: 768.25
   response: 7AA056213150C01
