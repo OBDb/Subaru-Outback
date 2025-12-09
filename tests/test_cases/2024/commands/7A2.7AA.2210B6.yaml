@@ -4,5 +4,5 @@ test_cases:
     SUBARU_OCV_DUTY_RIGHT: 0
   response: 7AA046210B600
 - expected_values:
-    SUBARU_OCV_DUTY_RIGHT: 59.60784
-  response: 7AA046210B698
+    SUBARU_OCV_DUTY_RIGHT: 60.78431
+  response: 7AA046210B69B
