@@ -4,29 +4,8 @@ test_cases:
     SUBARU_ODO_7A2_10E5: 6620
   response: 7AA056210E50CEE
 - expected_values:
+    SUBARU_ODO_7A2_10E5: 6642
+  response: 7AA056210E50CF9
+- expected_values:
     SUBARU_ODO_7A2_10E5: 16548
   response: 7AA056210E52052
-- expected_values:
-    SUBARU_ODO_7A2_10E5: 16550
-  response: 7AA056210E52053
-- expected_values:
-    SUBARU_ODO_7A2_10E5: 16552
-  response: 7AA056210E52054
-- expected_values:
-    SUBARU_ODO_7A2_10E5: 16554
-  response: 7AA056210E52055
-- expected_values:
-    SUBARU_ODO_7A2_10E5: 16556
-  response: 7AA056210E52056
-- expected_values:
-    SUBARU_ODO_7A2_10E5: 16558
-  response: 7AA056210E52057
-- expected_values:
-    SUBARU_ODO_7A2_10E5: 16598
-  response: 7AA056210E5206B
-- expected_values:
-    SUBARU_ODO_7A2_10E5: 16600
-  response: 7AA056210E5206C
-- expected_values:
-    SUBARU_ODO_7A2_10E5: 16672
-  response: 7AA056210E52090
