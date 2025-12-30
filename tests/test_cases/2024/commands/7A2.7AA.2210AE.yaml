@@ -4,5 +4,5 @@ test_cases:
     SUBARU_CPC_VALVE_DUTY_CYCLE: 0
   response: 7AA046210AE00
 - expected_values:
-    SUBARU_CPC_VALVE_DUTY_CYCLE: 98.82353
-  response: 7AA046210AEFC
+    SUBARU_CPC_VALVE_DUTY_CYCLE: 100
+  response: 7AA046210AEFF
