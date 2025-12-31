@@ -4,5 +4,5 @@ test_cases:
     SUBARU_COOLANT_T: 4
   response: 7E8046200052C
 - expected_values:
-    SUBARU_COOLANT_T: 86
-  response: 7E8046200057E
+    SUBARU_COOLANT_T: 88
+  response: '7E80462000580'
