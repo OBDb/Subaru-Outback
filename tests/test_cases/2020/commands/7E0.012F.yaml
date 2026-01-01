@@ -5,3 +5,6 @@ test_cases:
   response: |-
     012F
     7E803412FB9
+- expected_values:
+    FLI: 71.76471
+  response: 7E803412FB7
