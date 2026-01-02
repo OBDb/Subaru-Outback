@@ -6,6 +6,11 @@ test_cases:
     2210E5
     7E8056210E5A1E2
 - expected_values:
+    SUBARU_ODO: 82916
+  response: |-
+    2210E5
+    7E8056210E5A1F2
+- expected_values:
     SUBARU_ODO: 69398
   response: 7E8056210E5878B
 - expected_values:
