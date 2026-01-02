@@ -6,6 +6,11 @@ test_cases:
     0110
     7E804411000DC
 - expected_values:
+    MAF: 2.29
+  response: |-
+    0110
+    7E804411000E5
+- expected_values:
     MAF: 0.12
   response: 7E8044110000C
 - expected_values:
