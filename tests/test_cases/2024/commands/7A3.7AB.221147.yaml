@@ -4,14 +4,8 @@ test_cases:
     SUBARU_FRONT_WHEEL_SPEED: 0
   response: 7AB056211470000
 - expected_values:
-    SUBARU_FRONT_WHEEL_SPEED: 565
-  response: 7AB056211470235
+    SUBARU_FRONT_WHEEL_SPEED: 724
+  response: 7AB0562114702D4
 - expected_values:
-    SUBARU_FRONT_WHEEL_SPEED: 589
-  response: 7AB05621147024D
-- expected_values:
-    SUBARU_FRONT_WHEEL_SPEED: 707
-  response: 7AB0562114702C3
-- expected_values:
-    SUBARU_FRONT_WHEEL_SPEED: 1178
-  response: 7AB05621147049A
+    SUBARU_FRONT_WHEEL_SPEED: 3504
+  response: 7AB056211470DB0
