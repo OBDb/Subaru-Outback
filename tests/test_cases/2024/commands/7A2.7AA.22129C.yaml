@@ -1,0 +1,5 @@
+command_id: 7A2.7AA.22129C
+test_cases:
+- expected_values:
+    SUBARU_ENGINE_STARTING_TIME: 610
+  response: 7AA0562129C003D
