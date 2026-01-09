@@ -4,5 +4,5 @@ test_cases:
     SUBARU_ESTIMATED_BAT_T: -3.5
   response: 7AA056213230049
 - expected_values:
-    SUBARU_ESTIMATED_BAT_T: 10
-  response: 7AA056213230064
+    SUBARU_ESTIMATED_BAT_T: 22
+  response: 7AA05621323007C
