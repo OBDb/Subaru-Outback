@@ -1,6 +1,9 @@
 command_id: 7A2.7AA.2210B3
 test_cases:
 - expected_values:
+    SUBARU_FUEL_PUMP_DUTY: 0
+  response: 7AA046210B300
+- expected_values:
     SUBARU_FUEL_PUMP_DUTY: 75.29412
   response: 7AA046210B3C0
 - expected_values:
