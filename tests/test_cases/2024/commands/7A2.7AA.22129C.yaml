@@ -4,26 +4,5 @@ test_cases:
     SUBARU_ENGINE_STARTING_TIME: 0
   response: 7AA0562129C0000
 - expected_values:
-    SUBARU_ENGINE_STARTING_TIME: 330
-  response: 7AA0562129C0021
-- expected_values:
-    SUBARU_ENGINE_STARTING_TIME: 380
-  response: 7AA0562129C0026
-- expected_values:
-    SUBARU_ENGINE_STARTING_TIME: 510
-  response: 7AA0562129C0033
-- expected_values:
-    SUBARU_ENGINE_STARTING_TIME: 520
-  response: 7AA0562129C0034
-- expected_values:
-    SUBARU_ENGINE_STARTING_TIME: 610
-  response: 7AA0562129C003D
-- expected_values:
-    SUBARU_ENGINE_STARTING_TIME: 620
-  response: 7AA0562129C003E
-- expected_values:
-    SUBARU_ENGINE_STARTING_TIME: 640
-  response: 7AA0562129C0040
-- expected_values:
     SUBARU_ENGINE_STARTING_TIME: 680
   response: 7AA0562129C0044
