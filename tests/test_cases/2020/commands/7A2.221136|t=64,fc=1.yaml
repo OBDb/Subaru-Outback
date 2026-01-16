@@ -1,0 +1,5 @@
+command_id: 7A2.221136|t=64,fc=1
+test_cases:
+- expected_values:
+    SUBARU_12V_T: 215
+  response: '75A 04 62 11 36 FF '
