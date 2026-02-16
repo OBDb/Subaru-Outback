@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     SUBARU_BAT_CHARGE_DISCHARGE_CURRENT: -1.92
   response: 7AA07621322001E7D00
+- expected_values:
+    SUBARU_BAT_CHARGE_DISCHARGE_CURRENT: 46.864
+  response: 7AA07621322001F3B90
