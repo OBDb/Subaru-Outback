@@ -1,0 +1,11 @@
+command_id: 7A3.7AB.221147
+test_cases:
+- expected_values:
+    SUBARU_FRONT_WHEEL_SPEED: 0
+  response: 7AB056211470000
+- expected_values:
+    SUBARU_FRONT_WHEEL_SPEED: 1790
+  response: 7AB0562114706FE
+- expected_values:
+    SUBARU_FRONT_WHEEL_SPEED: 3595
+  response: 7AB056211470E0B

@@ -1,0 +1,8 @@
+command_id: 7A2.7AA.221233
+test_cases:
+- expected_values:
+    SUBARU_BRAKE_SWITCH: 0
+  response: 7AA0462123300
+- expected_values:
+    SUBARU_BRAKE_SWITCH: 255
+  response: 7AA04621233FF
