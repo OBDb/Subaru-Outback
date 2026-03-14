@@ -1,8 +1,8 @@
 command_id: 7A2.7AA.221324
 test_cases:
 - expected_values:
-    SUBARU_REMAINING_BAT_CAPACITY: 96.9
-  response: 7AA0562132403C9
+    SUBARU_REMAINING_BAT_CAPACITY: 96.4
+  response: 7AA0562132403C4
 - expected_values:
     SUBARU_REMAINING_BAT_CAPACITY: 100
   response: 7AA0562132403E8
