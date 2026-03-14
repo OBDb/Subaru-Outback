@@ -2,4 +2,7 @@ command_id: 7A2.7AA.221234
 test_cases:
 - expected_values:
     SUBARU_CC_MAIN_TOGGLE_SWITCH: 0
+  response: '7AA 04 62 12 34 00 '
+- expected_values:
+    SUBARU_CC_MAIN_TOGGLE_SWITCH: 0
   response: 7AA0462123400

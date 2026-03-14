@@ -2,4 +2,7 @@ command_id: 7A2.7AA.22122F
 test_cases:
 - expected_values:
     SUBARU_CLUTCH_SWITCH: 0
+  response: '7AA 04 62 12 2F 00 '
+- expected_values:
+    SUBARU_CLUTCH_SWITCH: 0
   response: 7AA0462122F00
