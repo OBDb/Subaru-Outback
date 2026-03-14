@@ -2,4 +2,7 @@ command_id: 7A2.7AA.22110D
 test_cases:
 - expected_values:
     SUBARU_ROUGHNESS_MONITOR_3: 0
+  response: '7AA 04 62 11 0D 00 '
+- expected_values:
+    SUBARU_ROUGHNESS_MONITOR_3: 0
   response: 7AA0462110D00

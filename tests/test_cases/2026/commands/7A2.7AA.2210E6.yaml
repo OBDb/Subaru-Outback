@@ -2,4 +2,7 @@ command_id: 7A2.7AA.2210E6
 test_cases:
 - expected_values:
     SUBARU_FUEL_TANK_AIR_PRESSURE: 0
+  response: '7AA 05 62 10 E6 00 00 '
+- expected_values:
+    SUBARU_FUEL_TANK_AIR_PRESSURE: 0
   response: 7AA056210E60000

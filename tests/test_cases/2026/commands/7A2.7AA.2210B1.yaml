@@ -2,6 +2,9 @@ command_id: 7A2.7AA.2210B1
 test_cases:
 - expected_values:
     SUBARU_EGR_STEPS: 0
+  response: '7AA 04 62 10 B1 00 '
+- expected_values:
+    SUBARU_EGR_STEPS: 0
   response: 7AA046210B100
 - expected_values:
     SUBARU_EGR_STEPS: 37
