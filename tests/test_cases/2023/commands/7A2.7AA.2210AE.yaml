@@ -1,0 +1,20 @@
+command_id: 7A2.7AA.2210AE
+test_cases:
+- expected_values:
+    SUBARU_CPC_VALVE_DUTY_CYCLE: 0
+  response: 7AA046210AE00
+- expected_values:
+    SUBARU_CPC_VALVE_DUTY_CYCLE: 8.23529
+  response: 7AA046210AE15
+- expected_values:
+    SUBARU_CPC_VALVE_DUTY_CYCLE: 11.76471
+  response: 7AA046210AE1E
+- expected_values:
+    SUBARU_CPC_VALVE_DUTY_CYCLE: 18.43137
+  response: 7AA046210AE2F
+- expected_values:
+    SUBARU_CPC_VALVE_DUTY_CYCLE: 43.52941
+  response: 7AA046210AE6F
+- expected_values:
+    SUBARU_CPC_VALVE_DUTY_CYCLE: 97.2549
+  response: 7AA046210AEF8

@@ -1,0 +1,32 @@
+command_id: 7A3.7AB.22113B
+test_cases:
+- expected_values:
+    SUBARU_SECONDARY_SET_CURRENT: 0
+  response: 7AB0562113B0000
+- expected_values:
+    SUBARU_SECONDARY_SET_CURRENT: 686
+  response: 7AB0562113B02AE
+- expected_values:
+    SUBARU_SECONDARY_SET_CURRENT: 732
+  response: 7AB0562113B02DC
+- expected_values:
+    SUBARU_SECONDARY_SET_CURRENT: 733
+  response: 7AB0562113B02DD
+- expected_values:
+    SUBARU_SECONDARY_SET_CURRENT: 767
+  response: 7AB0562113B02FF
+- expected_values:
+    SUBARU_SECONDARY_SET_CURRENT: 770
+  response: 7AB0562113B0302
+- expected_values:
+    SUBARU_SECONDARY_SET_CURRENT: 796
+  response: 7AB0562113B031C
+- expected_values:
+    SUBARU_SECONDARY_SET_CURRENT: 810
+  response: 7AB0562113B032A
+- expected_values:
+    SUBARU_SECONDARY_SET_CURRENT: 829
+  response: 7AB0562113B033D
+- expected_values:
+    SUBARU_SECONDARY_SET_CURRENT: 860
+  response: 7AB0562113B035C

@@ -1,0 +1,42 @@
+command_id: 7A2.7AA.2212ED
+test_cases:
+- expected_values:
+    SUBARU_MAF_AVG: 4.12
+    SUBARU_MASS_AIR_FLOW_AVERAGE: 4.12
+  response: 7AA056212ED019C
+- expected_values:
+    SUBARU_MAF_AVG: 4.29
+    SUBARU_MASS_AIR_FLOW_AVERAGE: 4.29
+  response: 7AA056212ED01AD
+- expected_values:
+    SUBARU_MAF_AVG: 4.71
+    SUBARU_MASS_AIR_FLOW_AVERAGE: 4.71
+  response: 7AA056212ED01D7
+- expected_values:
+    SUBARU_MAF_AVG: 10.75
+    SUBARU_MASS_AIR_FLOW_AVERAGE: 5
+  response: 7AA056212ED0433
+- expected_values:
+    SUBARU_MAF_AVG: 13.76
+    SUBARU_MASS_AIR_FLOW_AVERAGE: 5
+  response: 7AA056212ED0560
+- expected_values:
+    SUBARU_MAF_AVG: 17.24
+    SUBARU_MASS_AIR_FLOW_AVERAGE: 5
+  response: 7AA056212ED06BC
+- expected_values:
+    SUBARU_MAF_AVG: 20.6
+    SUBARU_MASS_AIR_FLOW_AVERAGE: 5
+  response: 7AA056212ED080C
+- expected_values:
+    SUBARU_MAF_AVG: 22.26
+    SUBARU_MASS_AIR_FLOW_AVERAGE: 5
+  response: 7AA056212ED08B2
+- expected_values:
+    SUBARU_MAF_AVG: 23.79
+    SUBARU_MASS_AIR_FLOW_AVERAGE: 5
+  response: 7AA056212ED094B
+- expected_values:
+    SUBARU_MAF_AVG: 48.96
+    SUBARU_MASS_AIR_FLOW_AVERAGE: 5
+  response: 7AA056212ED1320
