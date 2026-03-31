@@ -1,0 +1,32 @@
+command_id: 7A3.7AB.221146
+test_cases:
+- expected_values:
+    SUBARU_PRIMARY_PULLEY_SPEED: 0
+  response: 7AB056211460000
+- expected_values:
+    SUBARU_PRIMARY_PULLEY_SPEED: 297
+  response: 7AB056211460129
+- expected_values:
+    SUBARU_PRIMARY_PULLEY_SPEED: 1235
+  response: 7AB0562114604D3
+- expected_values:
+    SUBARU_PRIMARY_PULLEY_SPEED: 1241
+  response: 7AB0562114604D9
+- expected_values:
+    SUBARU_PRIMARY_PULLEY_SPEED: 1259
+  response: 7AB0562114604EB
+- expected_values:
+    SUBARU_PRIMARY_PULLEY_SPEED: 1320
+  response: 7AB056211460528
+- expected_values:
+    SUBARU_PRIMARY_PULLEY_SPEED: 1437
+  response: 7AB05621146059D
+- expected_values:
+    SUBARU_PRIMARY_PULLEY_SPEED: 1451
+  response: 7AB0562114605AB
+- expected_values:
+    SUBARU_PRIMARY_PULLEY_SPEED: 1506
+  response: 7AB0562114605E2
+- expected_values:
+    SUBARU_PRIMARY_PULLEY_SPEED: 1614
+  response: 7AB05621146064E
