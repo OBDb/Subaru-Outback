@@ -1,8 +1,8 @@
 command_id: 7A2.7AA.2210EF
 test_cases:
 - expected_values:
-    SUBARU_EXHAUST_OCV_DUTY_LEFT: 44.31373
-  response: 7AA046210EF71
+    SUBARU_EXHAUST_OCV_DUTY_LEFT: 0
+  response: 7AA046210EF00
 - expected_values:
-    SUBARU_EXHAUST_OCV_DUTY_LEFT: 56.86275
-  response: 7AA046210EF91
+    SUBARU_EXHAUST_OCV_DUTY_LEFT: 60.39216
+  response: 7AA046210EF9A
