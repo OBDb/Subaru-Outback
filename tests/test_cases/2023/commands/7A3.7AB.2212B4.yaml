@@ -4,29 +4,5 @@ test_cases:
     SUBARU_AWD_SOLENOID_SET_CURRENT: 302
   response: 7AB056212B4012E
 - expected_values:
-    SUBARU_AWD_SOLENOID_SET_CURRENT: 303
-  response: 7AB056212B4012F
-- expected_values:
-    SUBARU_AWD_SOLENOID_SET_CURRENT: 304
-  response: 7AB056212B40130
-- expected_values:
-    SUBARU_AWD_SOLENOID_SET_CURRENT: 309
-  response: 7AB056212B40135
-- expected_values:
-    SUBARU_AWD_SOLENOID_SET_CURRENT: 315
-  response: 7AB056212B4013B
-- expected_values:
-    SUBARU_AWD_SOLENOID_SET_CURRENT: 320
-  response: 7AB056212B40140
-- expected_values:
-    SUBARU_AWD_SOLENOID_SET_CURRENT: 339
-  response: 7AB056212B40153
-- expected_values:
-    SUBARU_AWD_SOLENOID_SET_CURRENT: 362
-  response: 7AB056212B4016A
-- expected_values:
-    SUBARU_AWD_SOLENOID_SET_CURRENT: 382
-  response: 7AB056212B4017E
-- expected_values:
     SUBARU_AWD_SOLENOID_SET_CURRENT: 467
   response: 7AB056212B401D3
