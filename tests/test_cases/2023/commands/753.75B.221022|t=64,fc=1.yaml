@@ -31,8 +31,8 @@ test_cases:
     SUBARU_TP_RR: 40.2
   response: 75B07621022C4C9C6CC
 - expected_values:
-    SUBARU_TP_FL: 41
-    SUBARU_TP_FR: 37.8
-    SUBARU_TP_RL: 39.4
-    SUBARU_TP_RR: 38
-  response: 75B07621022C5BEBDCD
+    SUBARU_TP_FL: 40.8
+    SUBARU_TP_FR: 39.4
+    SUBARU_TP_RL: 39.6
+    SUBARU_TP_RR: 39.6
+  response: 75B07621022C6C6C5CC
