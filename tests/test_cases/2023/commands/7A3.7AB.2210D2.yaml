@@ -1,8 +1,8 @@
 command_id: 7A3.7AB.2210D2
 test_cases:
 - expected_values:
-    SUBARU_CVT_T: 18
-  response: 7AB046210D244
+    SUBARU_CVT_T: 17
+  response: 7AB046210D243
 - expected_values:
     SUBARU_CVT_T: 92
   response: 7AB046210D28E
