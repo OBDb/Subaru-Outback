@@ -22,5 +22,8 @@ test_cases:
     SUBARU_RADIATOR_FAN: 36
   response: 7AA046210AB24
 - expected_values:
+    SUBARU_RADIATOR_FAN: 41
+  response: 7AA046210AB29
+- expected_values:
     SUBARU_RADIATOR_FAN: 50
   response: 7AA046210AB32
