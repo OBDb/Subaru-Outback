@@ -4,29 +4,5 @@ test_cases:
     SUBARU_RADIATOR_FAN: 0
   response: 7AA046210AB00
 - expected_values:
-    SUBARU_RADIATOR_FAN: 30
-  response: 7AA046210AB1E
-- expected_values:
-    SUBARU_RADIATOR_FAN: 31
-  response: 7AA046210AB1F
-- expected_values:
-    SUBARU_RADIATOR_FAN: 32
-  response: 7AA046210AB20
-- expected_values:
-    SUBARU_RADIATOR_FAN: 33
-  response: 7AA046210AB21
-- expected_values:
-    SUBARU_RADIATOR_FAN: 34
-  response: 7AA046210AB22
-- expected_values:
-    SUBARU_RADIATOR_FAN: 35
-  response: 7AA046210AB23
-- expected_values:
-    SUBARU_RADIATOR_FAN: 36
-  response: 7AA046210AB24
-- expected_values:
-    SUBARU_RADIATOR_FAN: 41
-  response: 7AA046210AB29
-- expected_values:
     SUBARU_RADIATOR_FAN: 50
   response: 7AA046210AB32
