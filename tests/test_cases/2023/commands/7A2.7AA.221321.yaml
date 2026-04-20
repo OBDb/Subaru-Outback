@@ -1,8 +1,8 @@
 command_id: 7A2.7AA.221321
 test_cases:
 - expected_values:
-    SUBARU_BAT_TERMINAL_VOLTAGE: 11.882
-  response: 7AA056213212E6A
+    SUBARU_BAT_TERMINAL_VOLTAGE: 11.11
+  response: 7AA056213212B66
 - expected_values:
     SUBARU_BAT_TERMINAL_VOLTAGE: 12.031
   response: 7AA056213212EFF
