@@ -4,5 +4,5 @@ test_cases:
     SUBARU_OCV_DUTY_LEFT: 0
   response: 7AA046210B700
 - expected_values:
-    SUBARU_OCV_DUTY_LEFT: 55.68627
-  response: 7AA046210B78E
+    SUBARU_OCV_DUTY_LEFT: 56.47059
+  response: 7AA046210B790
