@@ -4,8 +4,8 @@ test_cases:
     SUBARU_THROTTLE_MOTOR_DUTY: -18.464
   response: '7AA 04 62 10 DE 68 '
 - expected_values:
-    SUBARU_THROTTLE_MOTOR_DUTY: -60.016
-  response: 7AA046210DE33
+    SUBARU_THROTTLE_MOTOR_DUTY: -61.584
+  response: 7AA046210DE31
 - expected_values:
     SUBARU_THROTTLE_MOTOR_DUTY: 99.92
   response: 7AA046210DEFF
