@@ -7,5 +7,5 @@ test_cases:
     SUBARU_EOT_V2: 4
   response: 7E8046210E72C
 - expected_values:
-    SUBARU_EOT_V2: 87
-  response: 7E8046210E77F
+    SUBARU_EOT_V2: 88
+  response: 7E8046210E780
