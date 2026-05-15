@@ -211,6 +211,7 @@ unsupported_commands_by_ecu:
   - 6F1.22DBE4
   - 6F1.22DFE7
   "700":
+  - 700.708.221F3E
   - 700.708.222847
   "746":
   - 746.221032:SUBARU_STEER_ANGLE_746
