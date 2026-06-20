@@ -11,11 +11,14 @@ test_cases:
     0144
     7E80441448061
 - expected_values:
-    EQ_RAT: 0.86979
-  response: 7E80441446F55
+    EQ_RAT: 0.84498
+  response: 7E80441446C28
 - expected_values:
-    EQ_RAT: 0.9998
-  response: 7E80441447FF9
+    EQ_RAT: 0.92964
+  response: 7E804414476FE
+- expected_values:
+    EQ_RAT: 0.97658
+  response: 7E80441447D00
 - expected_values:
     EQ_RAT: 1.00002
   response: '7E80441448000'
