@@ -1,0 +1,5 @@
+command_id: 7A2.7AA.2210E9
+test_cases:
+- expected_values:
+    SUBARU_OSV_DUTY_LEFT: 0
+  response: 7AA046210E900
