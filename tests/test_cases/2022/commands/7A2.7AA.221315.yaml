@@ -1,0 +1,5 @@
+command_id: 7A2.7AA.221315
+test_cases:
+- expected_values:
+    SUBARU_MONITOR_2: 0
+  response: 7AA056213150000
