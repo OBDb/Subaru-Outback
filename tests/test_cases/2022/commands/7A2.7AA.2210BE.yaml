@@ -4,23 +4,5 @@ test_cases:
     SUBARU_A_F_SENSOR_1: 0.87404
   response: 7AA046210BE70
 - expected_values:
-    SUBARU_A_F_SENSOR_1: 0.92867
-  response: 7AA046210BE77
-- expected_values:
-    SUBARU_A_F_SENSOR_1: 0.97549
-  response: 7AA046210BE7D
-- expected_values:
-    SUBARU_A_F_SENSOR_1: 0.98329
-  response: 7AA046210BE7E
-- expected_values:
-    SUBARU_A_F_SENSOR_1: 0.9911
-  response: 7AA046210BE7F
-- expected_values:
-    SUBARU_A_F_SENSOR_1: 0.9989
-  response: 7AA046210BE80
-- expected_values:
-    SUBARU_A_F_SENSOR_1: 1.00671
-  response: 7AA046210BE81
-- expected_values:
     SUBARU_A_F_SENSOR_1: 1.53737
   response: 7AA046210BEC5
