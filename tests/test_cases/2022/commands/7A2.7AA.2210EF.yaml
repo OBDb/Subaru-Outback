@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     SUBARU_EXHAUST_OCV_DUTY_LEFT: 0
   response: 7AA046210EF00
+- expected_values:
+    SUBARU_EXHAUST_OCV_DUTY_LEFT: 44.31373
+  response: 7AA046210EF71
+- expected_values:
+    SUBARU_EXHAUST_OCV_DUTY_LEFT: 54.11765
+  response: 7AA046210EF8A
+- expected_values:
+    SUBARU_EXHAUST_OCV_DUTY_LEFT: 56.07843
+  response: 7AA046210EF8F
