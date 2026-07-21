@@ -1,6 +1,9 @@
 command_id: 7A2.7AA.221322
 test_cases:
 - expected_values:
+    SUBARU_BAT_CHARGE_DISCHARGE_CURRENT: -210.373
+  response: 7AA07621322001B4EBB
+- expected_values:
     SUBARU_BAT_CHARGE_DISCHARGE_CURRENT: -187.521
   response: 7AA07621322001BA7FF
 - expected_values:
