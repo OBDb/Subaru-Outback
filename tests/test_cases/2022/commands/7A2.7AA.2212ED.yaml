@@ -9,10 +9,6 @@ test_cases:
     SUBARU_MASS_AIR_FLOW_AVERAGE: 5
   response: 7AA056212ED03FF
 - expected_values:
-    SUBARU_MAF_AVG: 17.95
+    SUBARU_MAF_AVG: 33.29
     SUBARU_MASS_AIR_FLOW_AVERAGE: 5
-  response: 7AA056212ED0703
-- expected_values:
-    SUBARU_MAF_AVG: 28.51
-    SUBARU_MASS_AIR_FLOW_AVERAGE: 5
-  response: 7AA056212ED0B23
+  response: 7AA056212ED0D01
