@@ -1,0 +1,5 @@
+command_id: 7A2.221136|t=64,fc=1
+test_cases:
+- expected_values:
+    SUBARU_12V_T: 100
+  response: 7AA046211368C
