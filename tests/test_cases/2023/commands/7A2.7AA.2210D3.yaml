@@ -1,0 +1,5 @@
+command_id: 7A2.7AA.2210D3
+test_cases:
+- expected_values:
+    SUBARU_EWG_VALVE_REQUEST_POSITION: 15.00038
+  response: 7AA056210D3A000
