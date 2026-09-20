@@ -6,6 +6,11 @@ test_cases:
     2212B1
     7AB056212B10651
 - expected_values:
+    SUBARU_ACTUAL_LINE_PRESSURE: 1.05275
+  response: |-
+    2212B1
+    7AB056212B10A87
+- expected_values:
     SUBARU_ACTUAL_LINE_PRESSURE: 0
   response: 7AB056212B10000
 - expected_values:
