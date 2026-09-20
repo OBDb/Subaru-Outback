@@ -1,6 +1,11 @@
 command_id: 7A3.7AB.221146
 test_cases:
 - expected_values:
+    SUBARU_PRIMARY_PULLEY_SPEED: 762
+  response: |-
+    221146
+    7AB0562114602FA
+- expected_values:
     SUBARU_PRIMARY_PULLEY_SPEED: 668
   response: '7AB 05 62 11 46 02 9C '
 - expected_values:
