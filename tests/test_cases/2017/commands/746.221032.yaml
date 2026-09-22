@@ -1,0 +1,11 @@
+command_id: '746.221032'
+test_cases:
+- expected_values:
+    SUBARU_STEER_ANGLE_746: -95
+  response: 74E04621032ED
+- expected_values:
+    SUBARU_STEER_ANGLE_746: -20
+  response: 74E04621032FC
+- expected_values:
+    SUBARU_STEER_ANGLE_746: -10
+  response: 74E04621032FE
