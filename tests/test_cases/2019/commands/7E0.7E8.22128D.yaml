@@ -5,4 +5,4 @@ test_cases:
   response: 7E80562128D0009
 - expected_values:
     SUBARU_ELEC_LOAD_FEEDBACK: 0
-  response: 7E80562128D0026
+  response: 7E80562128D002E
