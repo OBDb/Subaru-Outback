@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221298
+test_cases:
+- expected_values:
+    SUBARU_TRANS_TURBINE_SPD: 0
+  response: '7E8056212980000'
+- expected_values:
+    SUBARU_TRANS_TURBINE_SPD: 1528
+  response: 7E80562129805F8
+- expected_values:
+    SUBARU_TRANS_TURBINE_SPD: 2757
+  response: 7E8056212980AC5

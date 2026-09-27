@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2212CE
+test_cases:
+- expected_values:
+    SUBARU_AMBIENT_T_SENS_SIG: 32
+  response: 7E8046212CE90
+- expected_values:
+    SUBARU_AMBIENT_T_SENS_SIG: 47
+  response: 7E8046212CEAE
