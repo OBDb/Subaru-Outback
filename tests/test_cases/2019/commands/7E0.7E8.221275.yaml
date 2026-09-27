@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221275
+test_cases:
+- expected_values:
+    SUBARU_THROTTLE_MOTOR_V: 12.08
+  response: '7E80462127597'
+- expected_values:
+    SUBARU_THROTTLE_MOTOR_V: 14.16
+  response: 7E804621275B1

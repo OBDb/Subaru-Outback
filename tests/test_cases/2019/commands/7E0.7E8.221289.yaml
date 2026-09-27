@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221289
+test_cases:
+- expected_values:
+    SUBARU_IDLE_MAF: -299.98
+  response: '7E8056212890272'
+- expected_values:
+    SUBARU_IDLE_MAF: -299.98
+  response: 7E80562128902FE
+- expected_values:
+    SUBARU_IDLE_MAF: -299.97
+  response: '7E8056212890304'
+- expected_values:
+    SUBARU_IDLE_MAF: -299.96
+  response: '7E8056212890412'
