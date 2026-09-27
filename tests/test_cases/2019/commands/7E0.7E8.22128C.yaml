@@ -5,4 +5,4 @@ test_cases:
   response: 7E80562128C0000
 - expected_values:
     SUBARU_IDLE_AC_LOAD_CORR: 0
-  response: 7E80562128C0063
+  response: 7E80562128C0069
