@@ -7,5 +7,23 @@ test_cases:
     SUBARU_AMBIENT_T_CTRL: 32.5
   response: 7E8046212D191
 - expected_values:
+    SUBARU_AMBIENT_T_CTRL: 33
+  response: 7E8046212D192
+- expected_values:
+    SUBARU_AMBIENT_T_CTRL: 33.5
+  response: 7E8046212D193
+- expected_values:
+    SUBARU_AMBIENT_T_CTRL: 34
+  response: 7E8046212D194
+- expected_values:
+    SUBARU_AMBIENT_T_CTRL: 34.5
+  response: 7E8046212D195
+- expected_values:
+    SUBARU_AMBIENT_T_CTRL: 35
+  response: 7E8046212D196
+- expected_values:
+    SUBARU_AMBIENT_T_CTRL: 36
+  response: 7E8046212D198
+- expected_values:
     SUBARU_AMBIENT_T_CTRL: 87
   response: 7E8046212D1FE
