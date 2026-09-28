@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.22101E
+test_cases:
+- expected_values:
+    SUBARU_TRIP_CNT: 25998
+  response: |-
+    7E8100962101E658E00
+    7E82100022500000000
