@@ -4,5 +4,5 @@ test_cases:
     SUBARU_INT_VVT_ADVANCE_TGT_ANG: 0
   response: '7E80462129032'
 - expected_values:
-    SUBARU_INT_VVT_ADVANCE_TGT_ANG: 30
-  response: '7E80462129050'
+    SUBARU_INT_VVT_ADVANCE_TGT_ANG: 37
+  response: '7E80462129057'

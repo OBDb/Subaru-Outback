@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     SUBARU_AMBIENT_T_SENS_SIG: 21
   response: 7E8046212CE7A
+- expected_values:
+    SUBARU_AMBIENT_T_SENS_SIG: 21.5
+  response: 7E8046212CE7B
+- expected_values:
+    SUBARU_AMBIENT_T_SENS_SIG: 22
+  response: 7E8046212CE7C
