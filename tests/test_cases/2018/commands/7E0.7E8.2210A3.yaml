@@ -4,5 +4,5 @@ test_cases:
     SUBARU_FUEL_INJ_1_WIDTH: 0
   response: 7E8046210A300
 - expected_values:
-    SUBARU_FUEL_INJ_1_WIDTH: 46
+    SUBARU_FUEL_INJ_1_WIDTH: 11.776
   response: 7E8046210A32E
