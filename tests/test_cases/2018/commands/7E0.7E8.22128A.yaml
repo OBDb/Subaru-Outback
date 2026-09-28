@@ -2,6 +2,9 @@ command_id: 7E0.7E8.22128A
 test_cases:
 - expected_values:
     SUBARU_IDLE_MAF_FEEDBACK: -298.83
+  response: 7E80562128A752E
+- expected_values:
+    SUBARU_IDLE_MAF_FEEDBACK: -298.83
   response: 7E80562128A7530
 - expected_values:
     SUBARU_IDLE_MAF_FEEDBACK: -298.83
@@ -11,6 +14,9 @@ test_cases:
   response: 7E80562128A7536
 - expected_values:
     SUBARU_IDLE_MAF_FEEDBACK: -298.83
+  response: 7E80562128A7540
+- expected_values:
+    SUBARU_IDLE_MAF_FEEDBACK: -298.83
   response: 7E80562128A7541
 - expected_values:
     SUBARU_IDLE_MAF_FEEDBACK: -298.83
@@ -18,6 +24,9 @@ test_cases:
 - expected_values:
     SUBARU_IDLE_MAF_FEEDBACK: -298.83
   response: 7E80562128A755C
+- expected_values:
+    SUBARU_IDLE_MAF_FEEDBACK: -298.83
+  response: 7E80562128A756C
 - expected_values:
     SUBARU_IDLE_MAF_FEEDBACK: -298.83
   response: 7E80562128A7584

@@ -4,6 +4,9 @@ test_cases:
     SUBARU_THROTTLE_MOTOR_V: 12.56
   response: 7E8046212759D
 - expected_values:
+    SUBARU_THROTTLE_MOTOR_V: 13.92
+  response: 7E804621275AE
+- expected_values:
     SUBARU_THROTTLE_MOTOR_V: 14
   response: 7E804621275AF
 - expected_values:
