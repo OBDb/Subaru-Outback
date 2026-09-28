@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.22101E
 test_cases:
 - expected_values:
-    SUBARU_TRIP_CNT: 26585
+    OUTBACK_TRIP_CNT: 26585
   response: |-
     7E8100962101E67D900
     7E82100079200000000
 - expected_values:
-    SUBARU_TRIP_CNT: 26586
+    OUTBACK_TRIP_CNT: 26586
   response: |-
     7E8100962101E67DA00
     7E8210009E500000000
 - expected_values:
-    SUBARU_TRIP_CNT: 26587
+    OUTBACK_TRIP_CNT: 26587
   response: |-
     7E8100962101E67DB00
     7E82100091C00000000
