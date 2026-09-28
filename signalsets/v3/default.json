@@ -1,4 +1,8 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" },
+    { "hdr": "7E1", "type": "transmission" }
+  ],
+  "commands": [
 { "hdr": "746", "cmd": {"22": "1032"}, "freq": 1, "dbgfilter": { "to": 2014, "from": 2020 },
   "signals": [
     {"id": "OUTBACK_STEER_ANGLE_746", "path": "Control", "fmt": { "len": 8, "max": 635, "min": -640, "mul": 5, "sign": true, "unit": "degrees" }, "name": "Steering wheel angle, v2"}
