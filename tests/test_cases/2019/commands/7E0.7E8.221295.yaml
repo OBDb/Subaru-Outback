@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     SUBARU_PURGE_DENSITY_LEARN: 0.77176
   response: '7E80462129581'
+- expected_values:
+    SUBARU_PURGE_DENSITY_LEARN: 1.55294
+  response: '7E80462129582'
