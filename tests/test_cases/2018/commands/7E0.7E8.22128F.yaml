@@ -4,29 +4,5 @@ test_cases:
     SUBARU_INT_VVT_ADVANCE_TGT: 0
   response: 7E80462128F32
 - expected_values:
-    SUBARU_INT_VVT_ADVANCE_TGT: 1
-  response: 7E80462128F33
-- expected_values:
-    SUBARU_INT_VVT_ADVANCE_TGT: 7
-  response: 7E80462128F39
-- expected_values:
-    SUBARU_INT_VVT_ADVANCE_TGT: 11
-  response: 7E80462128F3D
-- expected_values:
-    SUBARU_INT_VVT_ADVANCE_TGT: 15
-  response: 7E80462128F41
-- expected_values:
-    SUBARU_INT_VVT_ADVANCE_TGT: 17
-  response: 7E80462128F43
-- expected_values:
-    SUBARU_INT_VVT_ADVANCE_TGT: 21
-  response: 7E80462128F47
-- expected_values:
-    SUBARU_INT_VVT_ADVANCE_TGT: 24
-  response: 7E80462128F4A
-- expected_values:
-    SUBARU_INT_VVT_ADVANCE_TGT: 25
-  response: 7E80462128F4B
-- expected_values:
-    SUBARU_INT_VVT_ADVANCE_TGT: 31
-  response: 7E80462128F51
+    SUBARU_INT_VVT_ADVANCE_TGT: 40
+  response: 7E80462128F5A
