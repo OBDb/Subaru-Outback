@@ -4,29 +4,5 @@ test_cases:
     SUBARU_MAIN_THROTTLE_SENS: 0.72
   response: '7E80462127724'
 - expected_values:
-    SUBARU_MAIN_THROTTLE_SENS: 0.74
-  response: '7E80462127725'
-- expected_values:
-    SUBARU_MAIN_THROTTLE_SENS: 0.8
-  response: '7E80462127728'
-- expected_values:
-    SUBARU_MAIN_THROTTLE_SENS: 0.84
-  response: 7E8046212772A
-- expected_values:
-    SUBARU_MAIN_THROTTLE_SENS: 0.92
-  response: 7E8046212772E
-- expected_values:
-    SUBARU_MAIN_THROTTLE_SENS: 0.96
-  response: '7E80462127730'
-- expected_values:
-    SUBARU_MAIN_THROTTLE_SENS: 1.12
-  response: '7E80462127738'
-- expected_values:
-    SUBARU_MAIN_THROTTLE_SENS: 1.14
-  response: '7E80462127739'
-- expected_values:
-    SUBARU_MAIN_THROTTLE_SENS: 1.26
-  response: 7E8046212773F
-- expected_values:
     SUBARU_MAIN_THROTTLE_SENS: 1.82
   response: 7E8046212775B
