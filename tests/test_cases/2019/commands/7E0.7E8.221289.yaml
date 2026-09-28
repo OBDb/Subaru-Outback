@@ -10,5 +10,5 @@ test_cases:
     SUBARU_IDLE_MAF: -299.97
   response: '7E8056212890300'
 - expected_values:
-    SUBARU_IDLE_MAF: -299.96
-  response: '7E8056212890412'
+    SUBARU_IDLE_MAF: -299.95
+  response: 7E80562128905EB

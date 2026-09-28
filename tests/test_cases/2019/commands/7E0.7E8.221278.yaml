@@ -4,5 +4,5 @@ test_cases:
     SUBARU_SUB_ACCEL_SENS: 0.68
   response: '7E80462127822'
 - expected_values:
-    SUBARU_SUB_ACCEL_SENS: 1.5
-  response: 7E8046212784B
+    SUBARU_SUB_ACCEL_SENS: 1.66
+  response: '7E80462127853'
