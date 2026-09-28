@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.2212D1
 test_cases:
 - expected_values:
-    SUBARU_AMBIENT_T_CTRL: 19.5
+    OUTBACK_AMBIENT_T_CTRL: 19.5
   response: 7E8046212D177
 - expected_values:
-    SUBARU_AMBIENT_T_CTRL: 20
+    OUTBACK_AMBIENT_T_CTRL: 20
   response: 7E8046212D178
 - expected_values:
-    SUBARU_AMBIENT_T_CTRL: 20.5
+    OUTBACK_AMBIENT_T_CTRL: 20.5
   response: 7E8046212D179
 - expected_values:
-    SUBARU_AMBIENT_T_CTRL: 21.5
+    OUTBACK_AMBIENT_T_CTRL: 21.5
   response: 7E8046212D17B
 - expected_values:
-    SUBARU_AMBIENT_T_CTRL: 87
+    OUTBACK_AMBIENT_T_CTRL: 87
   response: 7E8046212D1FE

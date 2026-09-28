@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2212D1
 test_cases:
 - expected_values:
-    SUBARU_AMBIENT_T_CTRL: 26
+    OUTBACK_AMBIENT_T_CTRL: 26
   response: 7E8046212D184
 - expected_values:
-    SUBARU_AMBIENT_T_CTRL: 87
+    OUTBACK_AMBIENT_T_CTRL: 87
   response: 7E8046212D1FE

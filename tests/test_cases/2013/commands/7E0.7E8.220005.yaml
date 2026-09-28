@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220005
 test_cases:
 - expected_values:
-    SUBARU_ECT_7E0: 4
+    OUTBACK_ECT_7E0: 4
   response: 7E8046200052C
 - expected_values:
-    SUBARU_ECT_7E0: 88
+    OUTBACK_ECT_7E0: 88
   response: '7E80462000580'

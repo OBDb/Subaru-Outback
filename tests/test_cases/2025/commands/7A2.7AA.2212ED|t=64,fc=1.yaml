@@ -1,0 +1,14 @@
+command_id: 7A2.7AA.2212ED|t=64,fc=1
+test_cases:
+- expected_values:
+    OUTBACK_MAF_AVG: 2.12
+  response: 7AA056212ED00D4
+- expected_values:
+    OUTBACK_MAF_AVG: 5.11
+  response: 7AA056212ED01FF
+- expected_values:
+    OUTBACK_MAF_AVG: 15.36
+  response: 7AA056212ED0600
+- expected_values:
+    OUTBACK_MAF_AVG: 198.17
+  response: 7AA056212ED4D69

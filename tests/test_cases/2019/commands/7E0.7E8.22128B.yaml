@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22128B
 test_cases:
 - expected_values:
-    SUBARU_IDLE_SPD_CTRL: -298.83
+    OUTBACK_IDLE_SPD_CTRL: 0.16
   response: 7E80562128B7540
 - expected_values:
-    SUBARU_IDLE_SPD_CTRL: -298.83
+    OUTBACK_IDLE_SPD_CTRL: 0.32
   response: 7E80562128B7550
 - expected_values:
-    SUBARU_IDLE_SPD_CTRL: -298.83
+    OUTBACK_IDLE_SPD_CTRL: 0.4
   response: 7E80562128B7558

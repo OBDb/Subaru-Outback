@@ -1,8 +1,8 @@
-command_id: 7A2.7AA.2210A6
+command_id: 7A2.2210A6|t=64,fc=1
 test_cases:
 - expected_values:
-    SUBARU_ACC_PEDAL_ANGLE: 0
+    OUTBACK_ACC_POS: 0
   response: 7AA046210A600
 - expected_values:
-    SUBARU_ACC_PEDAL_ANGLE: 98.03922
+    OUTBACK_ACC_POS: 98.03922
   response: 7AA046210A6FA
