@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221277
 test_cases:
 - expected_values:
-    SUBARU_MAIN_THROTTLE_SENS: 0.76
+    OUTBACK_MAIN_THROTTLE_SENS: 0.76
   response: '7E80462127726'
 - expected_values:
-    SUBARU_MAIN_THROTTLE_SENS: 4
+    OUTBACK_MAIN_THROTTLE_SENS: 4
   response: 7E804621277C8

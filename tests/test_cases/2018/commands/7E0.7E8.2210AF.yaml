@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.2210AF
 test_cases:
 - expected_values:
-    SUBARU_TUMBLE_GEN_VLV_POS: 1.1
+    OUTBACK_TUMBLE_GEN_VLV_POS: 1.1
   response: 7E8046210AF37
 - expected_values:
-    SUBARU_TUMBLE_GEN_VLV_POS: 1.14
+    OUTBACK_TUMBLE_GEN_VLV_POS: 1.14
   response: 7E8046210AF39
 - expected_values:
-    SUBARU_TUMBLE_GEN_VLV_POS: 1.18
+    OUTBACK_TUMBLE_GEN_VLV_POS: 1.18
   response: 7E8046210AF3B
 - expected_values:
-    SUBARU_TUMBLE_GEN_VLV_POS: 1.9
+    OUTBACK_TUMBLE_GEN_VLV_POS: 1.9
   response: 7E8046210AF5F
 - expected_values:
-    SUBARU_TUMBLE_GEN_VLV_POS: 3.7
+    OUTBACK_TUMBLE_GEN_VLV_POS: 3.7
   response: 7E8046210AFB9
 - expected_values:
-    SUBARU_TUMBLE_GEN_VLV_POS: 3.72
+    OUTBACK_TUMBLE_GEN_VLV_POS: 3.72
   response: 7E8046210AFBA
 - expected_values:
-    SUBARU_TUMBLE_GEN_VLV_POS: 3.8
+    OUTBACK_TUMBLE_GEN_VLV_POS: 3.8
   response: 7E8046210AFBE

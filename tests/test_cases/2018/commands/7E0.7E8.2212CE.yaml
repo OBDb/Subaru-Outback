@@ -1,20 +1,20 @@
 command_id: 7E0.7E8.2212CE
 test_cases:
 - expected_values:
-    SUBARU_AMBIENT_T_SENS_SIG: 19.5
+    OUTBACK_AMBIENT_T_SENS_SIG: 19.5
   response: 7E8046212CE77
 - expected_values:
-    SUBARU_AMBIENT_T_SENS_SIG: 20
+    OUTBACK_AMBIENT_T_SENS_SIG: 20
   response: 7E8046212CE78
 - expected_values:
-    SUBARU_AMBIENT_T_SENS_SIG: 20.5
+    OUTBACK_AMBIENT_T_SENS_SIG: 20.5
   response: 7E8046212CE79
 - expected_values:
-    SUBARU_AMBIENT_T_SENS_SIG: 21
+    OUTBACK_AMBIENT_T_SENS_SIG: 21
   response: 7E8046212CE7A
 - expected_values:
-    SUBARU_AMBIENT_T_SENS_SIG: 21.5
+    OUTBACK_AMBIENT_T_SENS_SIG: 21.5
   response: 7E8046212CE7B
 - expected_values:
-    SUBARU_AMBIENT_T_SENS_SIG: 22
+    OUTBACK_AMBIENT_T_SENS_SIG: 22
   response: 7E8046212CE7C

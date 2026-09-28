@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2210AF
 test_cases:
 - expected_values:
-    SUBARU_TUMBLE_GEN_VLV_POS: 1.04
+    OUTBACK_TUMBLE_GEN_VLV_POS: 1.04
   response: 7E8046210AF34
 - expected_values:
-    SUBARU_TUMBLE_GEN_VLV_POS: 3.86
+    OUTBACK_TUMBLE_GEN_VLV_POS: 3.86
   response: 7E8046210AFC1

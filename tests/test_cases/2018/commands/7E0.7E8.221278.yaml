@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221278
 test_cases:
 - expected_values:
-    SUBARU_SUB_ACCEL_SENS: 0.66
+    OUTBACK_SUB_ACCEL_SENS: 0.66
   response: '7E80462127821'
 - expected_values:
-    SUBARU_SUB_ACCEL_SENS: 1.16
+    OUTBACK_SUB_ACCEL_SENS: 1.16
   response: 7E8046212783A
