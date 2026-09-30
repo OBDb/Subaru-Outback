@@ -1,0 +1,30 @@
+command_id: 7E0.7E8.22101E
+test_cases:
+- expected_values:
+    OUTBACK_TRIP_CNT: 9
+  response: "7E8 10 09 62 10 1E 00 09 20 \n7E8 21 00 19 75 00 00 00 00 "
+- expected_values:
+    OUTBACK_TRIP_CNT: 2
+  response: |-
+    7E8100962101E000220
+    7E8210002E600000000
+- expected_values:
+    OUTBACK_TRIP_CNT: 2
+  response: |-
+    7E8100962101E000220
+    7E821000B8000000000
+- expected_values:
+    OUTBACK_TRIP_CNT: 9
+  response: |-
+    7E8100962101E000920
+    7E82100084400000000
+- expected_values:
+    OUTBACK_TRIP_CNT: 9
+  response: |-
+    7E8100962101E000920
+    7E821000A5F00000000
+- expected_values:
+    OUTBACK_TRIP_CNT: 9
+  response: |-
+    7E8100962101E000920
+    7E821000BE100000000

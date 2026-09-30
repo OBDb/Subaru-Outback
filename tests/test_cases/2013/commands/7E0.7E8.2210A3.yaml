@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2210A3
+test_cases:
+- expected_values:
+    OUTBACK_FUEL_INJ_1_WIDTH: 0
+  response: 7E8046210A300
+- expected_values:
+    OUTBACK_FUEL_INJ_1_WIDTH: 2.816
+  response: 7E8046210A30B
+- expected_values:
+    OUTBACK_FUEL_INJ_1_WIDTH: 3.072
+  response: 7E8046210A30C

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221279
+test_cases:
+- expected_values:
+    OUTBACK_MAIN_ACCEL_SENS: 0.66
+  response: '7E8 04 62 12 79 21 '
+- expected_values:
+    OUTBACK_MAIN_ACCEL_SENS: 0.66
+  response: '7E80462127921'
+- expected_values:
+    OUTBACK_MAIN_ACCEL_SENS: 0.68
+  response: '7E80462127922'
+- expected_values:
+    OUTBACK_MAIN_ACCEL_SENS: 0.92
+  response: 7E8046212792E
