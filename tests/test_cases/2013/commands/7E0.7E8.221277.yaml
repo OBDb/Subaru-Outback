@@ -7,6 +7,12 @@ test_cases:
     OUTBACK_MAIN_THROTTLE_SENS: 0.66
   response: '7E80462127721'
 - expected_values:
+    OUTBACK_MAIN_THROTTLE_SENS: 0.68
+  response: '7E80462127722'
+- expected_values:
+    OUTBACK_MAIN_THROTTLE_SENS: 0.7
+  response: '7E80462127723'
+- expected_values:
     OUTBACK_MAIN_THROTTLE_SENS: 0.72
   response: '7E80462127724'
 - expected_values:
