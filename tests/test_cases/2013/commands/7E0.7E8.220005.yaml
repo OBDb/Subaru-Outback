@@ -4,5 +4,8 @@ test_cases:
     OUTBACK_ECT_7E0: 4
   response: 7E8046200052C
 - expected_values:
+    OUTBACK_ECT_7E0: 73
+  response: '7E80462000571'
+- expected_values:
     OUTBACK_ECT_7E0: 88
   response: '7E80462000580'

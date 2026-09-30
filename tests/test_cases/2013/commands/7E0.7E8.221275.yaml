@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221275
+test_cases:
+- expected_values:
+    OUTBACK_THROTTLE_MOTOR_V: 14.24
+  response: '7E8 04 62 12 75 B2 '
+- expected_values:
+    OUTBACK_THROTTLE_MOTOR_V: 14.4
+  response: '7E8 04 62 12 75 B4 '
+- expected_values:
+    OUTBACK_THROTTLE_MOTOR_V: 12.48
+  response: 7E8046212759C
+- expected_values:
+    OUTBACK_THROTTLE_MOTOR_V: 14.32
+  response: 7E804621275B3
+- expected_values:
+    OUTBACK_THROTTLE_MOTOR_V: 14.4
+  response: 7E804621275B4
+- expected_values:
+    OUTBACK_THROTTLE_MOTOR_V: 14.48
+  response: 7E804621275B5
