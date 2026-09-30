@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     OUTBACK_FUEL_INJ_1_WIDTH: 3.072
   response: 7E8046210A30C
+- expected_values:
+    OUTBACK_FUEL_INJ_1_WIDTH: 3.328
+  response: 7E8046210A30D

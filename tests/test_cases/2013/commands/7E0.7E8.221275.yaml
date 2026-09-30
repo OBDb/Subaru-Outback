@@ -10,6 +10,9 @@ test_cases:
     OUTBACK_THROTTLE_MOTOR_V: 12.48
   response: 7E8046212759C
 - expected_values:
+    OUTBACK_THROTTLE_MOTOR_V: 14.24
+  response: 7E804621275B2
+- expected_values:
     OUTBACK_THROTTLE_MOTOR_V: 14.32
   response: 7E804621275B3
 - expected_values:
