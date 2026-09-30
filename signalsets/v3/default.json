@@ -69,7 +69,7 @@
   "signals": [
     {"id": "OUTBACK_RADIATOR_FAN", "path": "ECU", "fmt": { "len": 8, "max": 200, "unit": "percent" }, "name": "Radiator fan control"}
   ]},
-{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "10AC"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "10AC"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2027 },
   "signals": [
     {"id": "OUTBACK_PRIMARY_BOOST_CTRL", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 20, "div": 51, "unit": "percent" }, "name": "Primary boost control"}
   ]},
