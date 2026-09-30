@@ -14,6 +14,21 @@ test_cases:
     7E8100962101E000220
     7E821000B8000000000
 - expected_values:
+    OUTBACK_TRIP_CNT: 2
+  response: |-
+    7E8100962101E000220
+    7E82100113100000000
+- expected_values:
+    OUTBACK_TRIP_CNT: 2
+  response: |-
+    7E8100962101E000220
+    7E8210013E400000000
+- expected_values:
+    OUTBACK_TRIP_CNT: 2
+  response: |-
+    7E8100962101E000220
+    7E8210016F100000000
+- expected_values:
     OUTBACK_TRIP_CNT: 9
   response: |-
     7E8100962101E000920
