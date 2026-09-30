@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221277
+test_cases:
+- expected_values:
+    OUTBACK_MAIN_THROTTLE_SENS: 0.64
+  response: '7E80462127720'
+- expected_values:
+    OUTBACK_MAIN_THROTTLE_SENS: 0.66
+  response: '7E80462127721'
+- expected_values:
+    OUTBACK_MAIN_THROTTLE_SENS: 0.72
+  response: '7E80462127724'
+- expected_values:
+    OUTBACK_MAIN_THROTTLE_SENS: 0.76
+  response: '7E80462127726'
+- expected_values:
+    OUTBACK_MAIN_THROTTLE_SENS: 0.86
+  response: 7E8046212772B

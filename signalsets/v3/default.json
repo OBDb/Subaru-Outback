@@ -33,7 +33,7 @@
   "signals": [
     {"id": "OUTBACK_12V_T", "path": "Battery", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "12V battery temperature"}
   ]},
-{ "hdr": "7A2", "rax": "7AA", "dbg": true, "cmd": {"22": "0005"}, "freq": 5,
+{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "0005"}, "freq": 5, "dbgfilter": { "to": 2012, "from": 2014 },
   "signals": [
     {"id": "OUTBACK_ECT", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Coolant temperature"}
   ]},
@@ -49,7 +49,7 @@
   "signals": [
     {"id": "OUTBACK_EGT_DPF_INLET", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "celsius" }, "name": "Exhaust gas temperature at DPF inlet"}
   ]},
-{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "10A1"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021, 2022], "from": 2027 },
+{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "10A1"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017, 2019, 2020, 2021, 2022], "from": 2027 },
   "signals": [
     {"id": "OUTBACK_MAF_VOLTAGE", "path": "Battery", "fmt": { "len": 8, "max": 5.1, "div": 50, "unit": "volts" }, "name": "Mass airflow sensor voltage"}
   ]},
@@ -73,7 +73,7 @@
   "signals": [
     {"id": "OUTBACK_PRIMARY_BOOST_CTRL", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 20, "div": 51, "unit": "percent" }, "name": "Primary boost control"}
   ]},
-{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "10AE"}, "freq": 1, "dbgfilter": { "to": 2014, "years": [2016, 2017, 2018, 2019, 2021], "from": 2027 },
+{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "10AE"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2016, 2017, 2018, 2019, 2021], "from": 2027 },
   "signals": [
     {"id": "OUTBACK_CPC_VALVE_DUTY_CYCLE", "path": "ECU", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Canister purge control valve duty cycle"}
   ]},
@@ -89,7 +89,7 @@
   "signals": [
     {"id": "OUTBACK_FUEL_PUMP_DUTY", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel pump duty"}
   ]},
-{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "10B4"}, "freq": 1, "dbgfilter": { "to": 2014, "years": [2016, 2017, 2018, 2019, 2021], "from": 2027 },
+{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "10B4"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2016, 2017, 2018, 2019, 2021], "from": 2027 },
   "signals": [
     {"id": "OUTBACK_INTAKE_VVT_ADVANCE_RIGHT", "path": "ECU", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "unit": "degrees" }, "name": "Intake VVT advance angle right"}
   ]},
@@ -101,7 +101,7 @@
   "signals": [
     {"id": "OUTBACK_OCV_DUTY_RIGHT", "path": "ECU", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Oil control valve duty right"}
   ]},
-{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "10B7"}, "freq": 1, "dbgfilter": { "to": 2019, "years": [2021], "from": 2027 },
+{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "10B7"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017, 2018, 2019, 2021], "from": 2027 },
   "signals": [
     {"id": "OUTBACK_OCV_DUTY_LEFT", "path": "ECU", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Oil control valve duty left"}
   ]},
@@ -157,7 +157,7 @@
   "signals": [
     {"id": "OUTBACK_ROUGHNESS_MONITOR_1", "path": "ECU", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Roughness monitor #1"}
   ]},
-{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "110C"}, "freq": 1, "dbgfilter": { "to": 2019, "years": [2021], "from": 2027 },
+{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "110C"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017, 2018, 2019, 2021], "from": 2027 },
   "signals": [
     {"id": "OUTBACK_ROUGHNESS_MONITOR_2", "path": "ECU", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Roughness monitor #2"}
   ]},
@@ -165,7 +165,7 @@
   "signals": [
     {"id": "OUTBACK_ROUGHNESS_MONITOR_3", "path": "ECU", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Roughness monitor #3"}
   ]},
-{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "110E"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2027 },
+{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "110E"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017, 2019, 2020, 2021], "from": 2027 },
   "signals": [
     {"id": "OUTBACK_ROUGHNESS_MONITOR_4", "path": "ECU", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Roughness monitor #4"}
   ]},
@@ -189,7 +189,7 @@
   "signals": [
     {"id": "OUTBACK_INLET_AIR_T_AFTER_AIR_FILTER", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Inlet air temperature, after air filter"}
   ]},
-{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "1121"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2027 },
+{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "1121"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017, 2019, 2020, 2021], "from": 2027 },
   "signals": [
     {"id": "OUTBACK_TARGET_ENGINE_SPEED", "path": "Movement", "fmt": { "len": 16, "max": 16383.75, "div": 4, "unit": "rpm" }, "name": "Target engine speed"}
   ]},
@@ -325,7 +325,7 @@
   "signals": [
     {"id": "OUTBACK_CC_SET_COAST_SWITCH", "path": "Cruise control", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Cruise control set/coast switch"}
   ]},
-{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "1232"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2021], "from": 2027 },
+{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "1232"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017, 2019, 2021], "from": 2027 },
   "signals": [
     {"id": "OUTBACK_CC_RESUME_ACCELERATE_SWITCH", "path": "Cruise control", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Cruise control resume/accelerate switch"}
   ]},
@@ -337,11 +337,11 @@
   "signals": [
     {"id": "OUTBACK_CC_MAIN_TOGGLE_SWITCH", "path": "Cruise control", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Cruise control main toggle switch"}
   ]},
-{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "124A"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2027 },
+{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "124A"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021], "from": 2027 },
   "signals": [
     {"id": "OUTBACK_CC_CANCEL_SWITCH", "path": "Cruise control", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Cruise control cancel switch"}
   ]},
-{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "124C"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2027 },
+{ "hdr": "7A2", "rax": "7AA", "cmd": {"22": "124C"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017, 2019, 2020, 2021], "from": 2027 },
   "signals": [
     {"id": "OUTBACK_OIL_LEVEL_SWITCH", "path": "ECU", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Oil level switch"}
   ]},
@@ -501,11 +501,11 @@
   "signals": [
     {"id": "OUTBACK_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "101E"}, "freq": 3600, "dbgfilter": { "to": 2017, "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "101E"}, "freq": 3600, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017], "from": 2020 },
   "signals": [
     {"id": "OUTBACK_TRIP_CNT", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Trip counter"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10A3"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10A3"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017], "from": 2020 },
   "signals": [
     {"id": "OUTBACK_FUEL_INJ_1_WIDTH", "path": "Fuel", "fmt": { "len": 8, "max": 65.28, "mul": 32, "div": 125, "unit": "milliseconds" }, "name": "Fuel injection 1 pulse width"}
   ]},
@@ -557,23 +557,23 @@
   "signals": [
     {"id": "OUTBACK_EXH_VVT_CLEANING", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Exhaust VVT cleaning self-recovery counter"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1275"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1275"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017], "from": 2020 },
   "signals": [
     {"id": "OUTBACK_THROTTLE_MOTOR_V", "path": "Battery", "fmt": { "len": 8, "max": 20.4, "mul": 2, "div": 25, "unit": "volts" }, "name": "Throttle motor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1276"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1276"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017], "from": 2020 },
   "signals": [
     {"id": "OUTBACK_SUB_THROTTLE_SENS", "path": "Engine", "fmt": { "len": 8, "max": 5.1, "div": 50, "unit": "volts" }, "name": "Sub throttle sensor"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1277"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1277"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017], "from": 2020 },
   "signals": [
     {"id": "OUTBACK_MAIN_THROTTLE_SENS", "path": "Engine", "fmt": { "len": 8, "max": 5.1, "div": 50, "unit": "volts" }, "name": "Main throttle sensor"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1278"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1278"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017], "from": 2020 },
   "signals": [
     {"id": "OUTBACK_SUB_ACCEL_SENS", "path": "Movement", "fmt": { "len": 8, "max": 5.1, "div": 50, "unit": "volts" }, "name": "Sub accelerator sensor"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1279"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1279"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017], "from": 2020 },
   "signals": [
     {"id": "OUTBACK_MAIN_ACCEL_SENS", "path": "Movement", "fmt": { "len": 8, "max": 5.1, "div": 50, "unit": "volts" }, "name": "Main accelerator sensor"}
   ]},
