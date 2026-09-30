@@ -1,0 +1,5 @@
+command_id: 7A2.7AA.2210AC
+test_cases:
+- expected_values:
+    OUTBACK_PRIMARY_BOOST_CTRL: 0
+  response: 7AA046210AC00
