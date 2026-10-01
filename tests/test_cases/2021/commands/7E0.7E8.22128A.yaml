@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22128A
+test_cases:
+- expected_values:
+    OUTBACK_IDLE_MAF_FEEDBACK: -0.98
+  response: 7E80562128A74CE
+- expected_values:
+    OUTBACK_IDLE_MAF_FEEDBACK: -0.08
+  response: 7E80562128A7528
+- expected_values:
+    OUTBACK_IDLE_MAF_FEEDBACK: -0.07
+  response: 7E80562128A7529
+- expected_values:
+    OUTBACK_IDLE_MAF_FEEDBACK: 0
+  response: 7E80562128A7530
+- expected_values:
+    OUTBACK_IDLE_MAF_FEEDBACK: 0.02
+  response: 7E80562128A7532
+- expected_values:
+    OUTBACK_IDLE_MAF_FEEDBACK: 0.05
+  response: 7E80562128A7535
+- expected_values:
+    OUTBACK_IDLE_MAF_FEEDBACK: 0.08
+  response: 7E80562128A7538
+- expected_values:
+    OUTBACK_IDLE_MAF_FEEDBACK: 0.19
+  response: 7E80562128A7543
+- expected_values:
+    OUTBACK_IDLE_MAF_FEEDBACK: 0.23
+  response: 7E80562128A7547
+- expected_values:
+    OUTBACK_IDLE_MAF_FEEDBACK: 0.44
+  response: 7E80562128A755C

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2210AF
+test_cases:
+- expected_values:
+    OUTBACK_TUMBLE_GEN_VLV_POS: 1.08
+  response: 7E8046210AF36
+- expected_values:
+    OUTBACK_TUMBLE_GEN_VLV_POS: 3.96
+  response: 7E8046210AFC6
