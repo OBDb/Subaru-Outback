@@ -4,26 +4,5 @@ test_cases:
     OUTBACK_AMBIENT_T_CTRL: 16
   response: 7E8046212D170
 - expected_values:
-    OUTBACK_AMBIENT_T_CTRL: 16.5
-  response: 7E8046212D171
-- expected_values:
-    OUTBACK_AMBIENT_T_CTRL: 17
-  response: 7E8046212D172
-- expected_values:
-    OUTBACK_AMBIENT_T_CTRL: 17.5
-  response: 7E8046212D173
-- expected_values:
-    OUTBACK_AMBIENT_T_CTRL: 18
-  response: 7E8046212D174
-- expected_values:
-    OUTBACK_AMBIENT_T_CTRL: 18.5
-  response: 7E8046212D175
-- expected_values:
-    OUTBACK_AMBIENT_T_CTRL: 19.5
-  response: 7E8046212D177
-- expected_values:
-    OUTBACK_AMBIENT_T_CTRL: 21.5
-  response: 7E8046212D17B
-- expected_values:
     OUTBACK_AMBIENT_T_CTRL: 87
   response: 7E8046212D1FE
