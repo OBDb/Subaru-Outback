@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2212CE
+test_cases:
+- expected_values:
+    OUTBACK_AMBIENT_T_SENS_SIG: 16
+  response: 7E8046212CE70
+- expected_values:
+    OUTBACK_AMBIENT_T_SENS_SIG: 21.5
+  response: 7E8046212CE7B
