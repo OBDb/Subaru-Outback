@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221359
+test_cases:
+- expected_values:
+    OUTBACK_DIRECT_FUEL_INJ_TIME_3: 0
+  response: '7E8056213590000'
+- expected_values:
+    OUTBACK_DIRECT_FUEL_INJ_TIME_3: 0.996
+  response: 7E80562135900F9
+- expected_values:
+    OUTBACK_DIRECT_FUEL_INJ_TIME_3: 1.16
+  response: '7E8056213590122'
