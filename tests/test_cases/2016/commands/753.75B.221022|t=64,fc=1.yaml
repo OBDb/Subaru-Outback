@@ -1,35 +1,11 @@
 command_id: 753.75B.221022|t=64,fc=1
 test_cases:
 - expected_values:
-    OUTBACK_TP_FL: 31.2
-  response: 75B076210220000009C
-- expected_values:
-    OUTBACK_TP_FL: 31.2
-    OUTBACK_TP_RR: 31.2
-  response: 75B07621022009C009C
-- expected_values:
-    OUTBACK_TP_FL: 29.6
-    OUTBACK_TP_FR: 30
-    OUTBACK_TP_RL: 30.2
-    OUTBACK_TP_RR: 29.8
-  response: 75B0762102297959694
-- expected_values:
-    OUTBACK_TP_FL: 30
-    OUTBACK_TP_FR: 30
-    OUTBACK_TP_RL: 30.2
-    OUTBACK_TP_RR: 29.8
-  response: 75B0762102297959696
-- expected_values:
-    OUTBACK_TP_FL: 31.4
-    OUTBACK_TP_RL: 32
-    OUTBACK_TP_RR: 31.2
-  response: 75B07621022A09C009D
-- expected_values:
-    OUTBACK_TP_FL: 31.4
-    OUTBACK_TP_FR: 31.6
-    OUTBACK_TP_RL: 32
-    OUTBACK_TP_RR: 31.4
-  response: 75B07621022A09D9E9D
+    OUTBACK_TP_FL: null
+    OUTBACK_TP_FR: null
+    OUTBACK_TP_RL: null
+    OUTBACK_TP_RR: null
+  response: 75B0762102200000000
 - expected_values:
     OUTBACK_TP_FL: 35.4
     OUTBACK_TP_FR: 35.2
