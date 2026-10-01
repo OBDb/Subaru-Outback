@@ -5,3 +5,8 @@ test_cases:
   response: |-
     7E8100962101E24D900
     7E82100041600000000
+- expected_values:
+    OUTBACK_TRIP_CNT: 9434
+  response: |-
+    7E8100962101E24DA00
+    7E8210004A700000000

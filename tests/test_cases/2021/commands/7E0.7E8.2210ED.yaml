@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2210ED
 test_cases:
 - expected_values:
-    OUTBACK_EXH_VVT_RETARD_ANG_LEFT: 0
-  response: 7E8046210ED32
+    OUTBACK_EXH_VVT_RETARD_ANG_LEFT: -1
+  response: 7E8046210ED31
 - expected_values:
-    OUTBACK_EXH_VVT_RETARD_ANG_LEFT: 41
-  response: 7E8046210ED5B
+    OUTBACK_EXH_VVT_RETARD_ANG_LEFT: 47
+  response: 7E8046210ED61

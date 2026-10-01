@@ -4,17 +4,5 @@ test_cases:
     OUTBACK_THROTTLE_MOTOR_V: 0.24
   response: '7E80462127503'
 - expected_values:
-    OUTBACK_THROTTLE_MOTOR_V: 12.32
-  response: 7E8046212759A
-- expected_values:
-    OUTBACK_THROTTLE_MOTOR_V: 14.08
-  response: 7E804621275B0
-- expected_values:
-    OUTBACK_THROTTLE_MOTOR_V: 14.16
-  response: 7E804621275B1
-- expected_values:
-    OUTBACK_THROTTLE_MOTOR_V: 14.24
-  response: 7E804621275B2
-- expected_values:
-    OUTBACK_THROTTLE_MOTOR_V: 14.32
-  response: 7E804621275B3
+    OUTBACK_THROTTLE_MOTOR_V: 15.28
+  response: 7E804621275BF

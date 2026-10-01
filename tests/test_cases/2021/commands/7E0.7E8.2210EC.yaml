@@ -4,5 +4,5 @@ test_cases:
     OUTBACK_EXH_VVT_RETARD_ANG: 0
   response: 7E8046210EC32
 - expected_values:
-    OUTBACK_EXH_VVT_RETARD_ANG: 46
-  response: 7E8046210EC60
+    OUTBACK_EXH_VVT_RETARD_ANG: 47
+  response: 7E8046210EC61

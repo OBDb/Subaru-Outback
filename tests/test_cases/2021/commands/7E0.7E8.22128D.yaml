@@ -5,7 +5,13 @@ test_cases:
   response: 7E80562128D0000
 - expected_values:
     OUTBACK_ELEC_LOAD_FEEDBACK: 0
+  response: 7E80562128D0001
+- expected_values:
+    OUTBACK_ELEC_LOAD_FEEDBACK: 0
   response: 7E80562128D0005
 - expected_values:
     OUTBACK_ELEC_LOAD_FEEDBACK: 0
   response: 7E80562128D0006
+- expected_values:
+    OUTBACK_ELEC_LOAD_FEEDBACK: 0
+  response: 7E80562128D0008

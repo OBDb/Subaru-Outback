@@ -4,5 +4,5 @@ test_cases:
     OUTBACK_MAIN_ACCEL_SENS: 0.68
   response: '7E80462127922'
 - expected_values:
-    OUTBACK_MAIN_ACCEL_SENS: 1.72
-  response: '7E80462127956'
+    OUTBACK_MAIN_ACCEL_SENS: 2.38
+  response: '7E80462127977'
