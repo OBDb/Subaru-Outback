@@ -4,5 +4,5 @@ test_cases:
     OUTBACK_SUB_ACCEL_SENS: 0.68
   response: '7E80462127822'
 - expected_values:
-    OUTBACK_SUB_ACCEL_SENS: 1.7
-  response: '7E80462127855'
+    OUTBACK_SUB_ACCEL_SENS: 1.9
+  response: 7E8046212785F

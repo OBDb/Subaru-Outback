@@ -7,6 +7,12 @@ test_cases:
     OUTBACK_SPLIT_RAT_FUEL_INJ_2: 29.80392
   response: 7E8046213534C
 - expected_values:
+    OUTBACK_SPLIT_RAT_FUEL_INJ_2: 31.76471
+  response: '7E80462135351'
+- expected_values:
+    OUTBACK_SPLIT_RAT_FUEL_INJ_2: 32.15686
+  response: '7E80462135352'
+- expected_values:
     OUTBACK_SPLIT_RAT_FUEL_INJ_2: 32.54902
   response: '7E80462135353'
 - expected_values:

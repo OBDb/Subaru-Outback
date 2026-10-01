@@ -4,5 +4,5 @@ test_cases:
     OUTBACK_INT_VVT_ADVANCE_TGT_ANG: -20
   response: 7E8046212901E
 - expected_values:
-    OUTBACK_INT_VVT_ADVANCE_TGT_ANG: 19
-  response: '7E80462129045'
+    OUTBACK_INT_VVT_ADVANCE_TGT_ANG: 29
+  response: 7E8046212904F

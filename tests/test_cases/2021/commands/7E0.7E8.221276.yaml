@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221276
 test_cases:
 - expected_values:
-    OUTBACK_SUB_THROTTLE_SENS: 1.56
-  response: 7E8046212764E
+    OUTBACK_SUB_THROTTLE_SENS: 1.54
+  response: 7E8046212764D
 - expected_values:
     OUTBACK_SUB_THROTTLE_SENS: 3.84
   response: 7E804621276C0
