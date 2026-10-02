@@ -1,10 +1,10 @@
 command_id: 753.75B.221022|t=64,fc=1
 test_cases:
 - expected_values:
-    OUTBACK_TP_FL: 31.8
-    OUTBACK_TP_FR: 32
+    OUTBACK_TP_FL: 31.4
+    OUTBACK_TP_FR: 31.4
     OUTBACK_TP_RR: 36.8
-  response: 75B0762102200B8A09F
+  response: 75B0762102200B89D9D
 - expected_values:
     OUTBACK_TP_FL: 29.8
     OUTBACK_TP_FR: 29.4
