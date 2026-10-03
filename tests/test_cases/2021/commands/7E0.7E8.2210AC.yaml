@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2210AC
+test_cases:
+- expected_values:
+    OUTBACK_PRIMARY_BOOST_CTRL_7E0: 0
+  response: 7E8046210AC00
+- expected_values:
+    OUTBACK_PRIMARY_BOOST_CTRL_7E0: 8.62745
+  response: 7E8046210AC16
