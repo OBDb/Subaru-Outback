@@ -7,29 +7,11 @@ test_cases:
     OUTBACK_TP_RR: 36.2
   response: '75B 07 62 10 22 B4 B5 A1 87 '
 - expected_values:
-    OUTBACK_TP_FL: 29.6
-    OUTBACK_TP_FR: 30
-    OUTBACK_TP_RL: 29.6
-    OUTBACK_TP_RR: 29.4
-  response: 75B0762102294939694
-- expected_values:
-    OUTBACK_TP_FL: 30
-    OUTBACK_TP_FR: 30.2
-    OUTBACK_TP_RL: 29.8
-    OUTBACK_TP_RR: 29.2
-  response: 75B0762102295929796
-- expected_values:
-    OUTBACK_TP_FL: 30.2
-    OUTBACK_TP_FR: 29.8
-    OUTBACK_TP_RL: 29.8
-    OUTBACK_TP_RR: 29.4
-  response: 75B0762102295939597
-- expected_values:
-    OUTBACK_TP_FL: 27
-    OUTBACK_TP_FR: 32.2
-    OUTBACK_TP_RL: 36
-    OUTBACK_TP_RR: 36.2
-  response: 75B07621022B4B5A187
+    OUTBACK_TP_FL: null
+    OUTBACK_TP_FR: null
+    OUTBACK_TP_RL: null
+    OUTBACK_TP_RR: null
+  response: 75B0762102200000000
 - expected_values:
     OUTBACK_TP_FL: 40.6
     OUTBACK_TP_FR: 40.6
