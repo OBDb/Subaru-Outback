@@ -507,11 +507,11 @@
   "signals": [
     {"id": "OUTBACK_TRIP_CNT", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Trip counter"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10A3"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017], "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10A3"}, "freq": 1, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2016, 2017, 2020], "from": 2022 },
   "signals": [
     {"id": "OUTBACK_FUEL_INJ_1_WIDTH", "path": "Fuel", "fmt": { "len": 8, "max": 65.28, "mul": 32, "div": 125, "unit": "milliseconds" }, "name": "Fuel injection 1 pulse width"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "10AC"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10AC"}, "freq": 1, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
     {"id": "OUTBACK_PRIMARY_BOOST_CTRL_7E0", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 20, "div": 51, "unit": "percent" }, "name": "Primary boost control"}
   ]},
