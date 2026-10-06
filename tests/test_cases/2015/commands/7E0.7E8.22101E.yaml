@@ -1,0 +1,12 @@
+command_id: 7E0.7E8.22101E
+test_cases:
+- expected_values:
+    OUTBACK_TRIP_CNT: 24248
+  response: |-
+    7E8100962101E5EB800
+    7E821000A0A00000000
+- expected_values:
+    OUTBACK_TRIP_CNT: 24249
+  response: |-
+    7E8100962101E5EB900
+    7E8210001AB00000000

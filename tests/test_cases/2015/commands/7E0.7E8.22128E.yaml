@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22128E
+test_cases:
+- expected_values:
+    OUTBACK_IDLE_DIRTY_THROTTLE: 2.8
+  response: 7E80562128E7648
