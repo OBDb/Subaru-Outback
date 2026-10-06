@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221290
+test_cases:
+- expected_values:
+    OUTBACK_INT_VVT_ADVANCE_TGT_ANG: 0
+  response: '7E80462129032'
+- expected_values:
+    OUTBACK_INT_VVT_ADVANCE_TGT_ANG: 1
+  response: '7E80462129033'
+- expected_values:
+    OUTBACK_INT_VVT_ADVANCE_TGT_ANG: 11
+  response: 7E8046212903D
+- expected_values:
+    OUTBACK_INT_VVT_ADVANCE_TGT_ANG: 12
+  response: 7E8046212903E
+- expected_values:
+    OUTBACK_INT_VVT_ADVANCE_TGT_ANG: 21
+  response: '7E80462129047'
+- expected_values:
+    OUTBACK_INT_VVT_ADVANCE_TGT_ANG: 33
+  response: '7E80462129053'
+- expected_values:
+    OUTBACK_INT_VVT_ADVANCE_TGT_ANG: 40
+  response: 7E8046212905A

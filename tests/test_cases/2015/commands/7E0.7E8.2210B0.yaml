@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2210B0
+test_cases:
+- expected_values:
+    OUTBACK_TUMBLE_GEN_VLV_POS_SENS: 1.12
+  response: 7E8046210B038
+- expected_values:
+    OUTBACK_TUMBLE_GEN_VLV_POS_SENS: 1.14
+  response: 7E8046210B039
+- expected_values:
+    OUTBACK_TUMBLE_GEN_VLV_POS_SENS: 1.18
+  response: 7E8046210B03B
+- expected_values:
+    OUTBACK_TUMBLE_GEN_VLV_POS_SENS: 1.44
+  response: 7E8046210B048
+- expected_values:
+    OUTBACK_TUMBLE_GEN_VLV_POS_SENS: 2.12
+  response: 7E8046210B06A
+- expected_values:
+    OUTBACK_TUMBLE_GEN_VLV_POS_SENS: 3.86
+  response: 7E8046210B0C1

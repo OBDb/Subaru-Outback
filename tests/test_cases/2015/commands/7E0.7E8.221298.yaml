@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221298
+test_cases:
+- expected_values:
+    OUTBACK_TRANS_TURBINE_SPD: 0
+  response: '7E8056212980000'
+- expected_values:
+    OUTBACK_TRANS_TURBINE_SPD: 1254
+  response: 7E80562129804E6
+- expected_values:
+    OUTBACK_TRANS_TURBINE_SPD: 2444
+  response: 7E805621298098C
