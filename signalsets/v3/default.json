@@ -33,7 +33,7 @@
   ]},
 { "hdr": "7A2", "tmo": "64", "fcm1": true, "cmd": {"22": "1136"}, "freq": 1, "dbgfilter": { "to": 2019, "years": [2021, 2022], "from": 2027 },
   "signals": [
-    {"id": "OUTBACK_12V_T", "path": "Battery", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "12V battery temperature"}
+    {"id": "OUTBACK_12V_T", "path": "Battery", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "12V battery temperature raw"}
   ]},
 { "hdr": "7A2", "rax": "7AA", "cmd": {"22": "0005"}, "freq": 5, "dbgfilter": { "to": 2012, "from": 2014 },
   "signals": [
