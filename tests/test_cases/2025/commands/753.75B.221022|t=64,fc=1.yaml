@@ -8,10 +8,10 @@ test_cases:
   response: 75B0762102291929494
 - expected_values:
     OUTBACK_TP_FL: 29
-    OUTBACK_TP_FR: 29.8
-    OUTBACK_TP_RL: 29.2
-    OUTBACK_TP_RR: 29.2
-  response: 75B0762102292929591
+    OUTBACK_TP_FR: 29.2
+    OUTBACK_TP_RL: 29
+    OUTBACK_TP_RR: 29.4
+  response: 75B0762102291939291
 - expected_values:
     OUTBACK_TP_FL: 35
     OUTBACK_TP_FR: 28.2
