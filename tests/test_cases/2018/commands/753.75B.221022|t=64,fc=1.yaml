@@ -37,6 +37,14 @@ test_cases:
     OUTBACK_TP_RR: 36.2
   response: 75B07621022B4B5A187
 - expected_values:
+    OUTBACK_TP_FL: 37
+    OUTBACK_TP_FR: 37.2
+    OUTBACK_TP_RL: 37
+    OUTBACK_TP_RR: 36.8
+  response: |-
+    75B07621022B9B8BAB9
+    75B027E00
+- expected_values:
     OUTBACK_TP_FL: 40.6
     OUTBACK_TP_FR: 40.6
     OUTBACK_TP_RL: 41.6
