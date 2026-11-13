@@ -13,11 +13,11 @@ test_cases:
     OUTBACK_TP_RR: 28.8
   response: 75B076210228F908F91
 - expected_values:
-    OUTBACK_TP_FL: 35
+    OUTBACK_TP_FL: 29
     OUTBACK_TP_FR: 28.2
-    OUTBACK_TP_RL: 36.2
-    OUTBACK_TP_RR: 36.6
-  response: 75B07621022B5B78DAF
+    OUTBACK_TP_RL: 28.6
+    OUTBACK_TP_RR: 29
+  response: 75B076210228F918D91
 - expected_values:
     OUTBACK_TP_FL: 45.8
     OUTBACK_TP_FR: 47
