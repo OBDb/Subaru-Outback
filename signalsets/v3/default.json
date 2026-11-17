@@ -389,7 +389,7 @@
   ]},
 { "hdr": "7A2", "rax": "7AA", "cmd": {"22": "1321"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2027 },
   "signals": [
-    {"id": "OUTBACK_BAT_TERMINAL_VOLTAGE", "path": "Battery", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "volts" }, "name": "Battery terminal voltage", "suggestedMetric": "starterBatteryVoltage"}
+    {"id": "OUTBACK_BAT_TERMINAL_VOLTAGE", "path": "Battery", "fmt": { "len": 16, "max": 65.535, "div": 1000, "nullmin": 0, "unit": "volts" }, "name": "Battery terminal voltage", "suggestedMetric": "starterBatteryVoltage"}
   ]},
 { "hdr": "7A2", "rax": "7AA", "cmd": {"22": "1322"}, "freq": 1, "dbgfilter": { "to": 2014, "years": [2016, 2017, 2019, 2020, 2021], "from": 2027 },
   "signals": [
