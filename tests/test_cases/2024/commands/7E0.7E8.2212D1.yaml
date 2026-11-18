@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2212D1
+test_cases:
+- expected_values:
+    OUTBACK_AMBIENT_T_CTRL: 10.5
+  response: 7E8046212D165

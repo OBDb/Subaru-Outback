@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221290
+test_cases:
+- expected_values:
+    OUTBACK_INT_VVT_ADVANCE_TGT_ANG: 0
+  response: '7E80462129032'

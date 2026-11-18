@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221354
+test_cases:
+- expected_values:
+    OUTBACK_SPLIT_RAT_FUEL_INJ_3: 0
+  response: '7E80462135400'
