@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221298
+test_cases:
+- expected_values:
+    OUTBACK_TRANS_TURBINE_SPD: 729
+  response: 7E80562129802D9
